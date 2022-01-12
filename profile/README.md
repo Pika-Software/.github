@@ -22,6 +22,7 @@
 ## Бинарные модули
 
 - [Network](https://github.com/Pika-Software/gmsv_network)
+- [Bit32](https://github.com/Pika-Software/gm_bit32)
 - [MyHTTP](https://github.com/Pika-Software/gmsv_myhttp)
 - [MongoDB](https://github.com/Pika-Software/gmsv_mongodb)
 
