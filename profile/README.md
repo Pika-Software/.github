@@ -48,7 +48,7 @@
 
 <h1 align="center">⏳ WIP</h1>
 
-- [GLua Packet Manager](https://github.com/Pika-Software/gpm)
+- [GLua Package Manager](https://github.com/Pika-Software/gpm)
 - [Drag-n Drop Deleting](https://github.com/Pika-Software/Drag-n-Drop_delete)
 - [Pika UI](https://github.com/Pika-Software/pui)
 
@@ -59,9 +59,10 @@
 
 <h1 align="center">⚡ Команда</h1>
 
-(⭐ - Администратор)
+- 🌟 - Глава  
+- ⭐ - Администратор  
 
-[⭐ PrikolMen:-b](http://steamcommunity.com/profiles/76561198100459279)  
+[🌟 PrikolMen:-b](http://steamcommunity.com/profiles/76561198100459279)  
 [⭐ Komi-sar](http://steamcommunity.com/profiles/76561198049442792)  
 [⭐ Retro](http://steamcommunity.com/profiles/76561198884350315)  
 [⭐ Angel](http://steamcommunity.com/profiles/76561198256780625)  
