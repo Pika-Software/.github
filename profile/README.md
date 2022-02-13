@@ -63,8 +63,8 @@
 - ⭐ - Администратор  
 
 [🌟 PrikolMen:-b](http://steamcommunity.com/profiles/76561198100459279)  
+[🌟 Retro](http://steamcommunity.com/profiles/76561198884350315)
 [⭐ Komi-sar](http://steamcommunity.com/profiles/76561198049442792)  
-[⭐ Retro](http://steamcommunity.com/profiles/76561198884350315)  
 [⭐ Angel](http://steamcommunity.com/profiles/76561198256780625)  
 [⭐ Klen_list](http://steamcommunity.com/profiles/76561198233049188)  
 [DefaultOS](http://steamcommunity.com/profiles/76561198163261508)  
