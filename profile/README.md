@@ -16,26 +16,42 @@
 
 - [GLua Package Manager](https://github.com/Pika-Software/gpm)
 - [Random Patches](https://github.com/Pika-Software/gmod_random_patches)
-- [Alium Community Banlist](https://github.com/Pika-Software/AliumCommunityBans)
+- [Community Ban List](https://github.com/Pika-Software/AliumCommunityBans)
 
 <h1 align="center">📦 Пакеты GPM</h1>
 
 - [Game Ready](https://github.com/Pika-Software/gpm_game_ready)
 - [Environment Library](https://github.com/Pika-Software/gpm_environment_lib)
 - [Base Extensions](https://github.com/Pika-Software/gpm_base_extensions)
-- [Language Extensions](https://github.com/Pika-Software/gpm_language_extensions)
-- [Console Utils](https://github.com/Pika-Software/gpm_console_utils)
 - [Math Extensions](https://github.com/Pika-Software/gpm_math_extensions)
 - [Color Extensions](https://github.com/Pika-Software/gpm_color_extensions)
 - [Extra Extensions](https://github.com/Pika-Software/gpm_extra_extensions)
 - [Team Extensions](https://github.com/Pika-Software/gpm_team_extensions)
 - [HTTP Extensions](https://github.com/Pika-Software/gpm_http_extensions)
+- [Player Extensions](https://github.com/Pika-Software/gpm_player_extensions)
+- [Chat Extensions](https://github.com/Pika-Software/gpm_chat_extensions)
+- [Voice Chat Extensions](https://github.com/Pika-Software/gpm_voice_chat_extensions)
+- [Language Extensions](https://github.com/Pika-Software/gpm_language_extensions)
+- [Standby Screen](https://github.com/Pika-Software/gpm_standby_screen)
+- [Player Roles](https://github.com/Pika-Software/gpm_player_roles)
+- [Steam Web API](https://github.com/Pika-Software/gpm_steam_web_api)
+- [Fonts](https://github.com/Pika-Software/gpm_fonts)
 - [Hostname](https://github.com/Pika-Software/gpm_hostname)
-- [Player Country](https://github.com/Pika-Software/gpm_player_country)
+- [AWDL](https://github.com/Pika-Software/gpm_awdl)
+- [Workshop DL](https://github.com/Pika-Software/gpm_workshop_dl)
+- [Hardware Info](https://github.com/Pika-Software/gpm_hardware_info)
+- [Server Security](https://github.com/Pika-Software/gpm_server_security)
 - [Perma Entities](https://github.com/Pika-Software/gpm_perma_entities)
+- [Drop Weapon](https://github.com/Pika-Software/gpm_drop_weapon)
+- [Sound Analyze](https://github.com/Pika-Software/gpm_sound_analyze)
+- [Linear Gradient](https://github.com/Pika-Software/gpm_linear_gradient)
+- [pBit](https://github.com/Pika-Software/gpm_pbit)
 
 <h1 align="center">✨ Аддоны</h1>
 
+- [RE:Base](https://github.com/Pika-Software/gmod_rebase)
+- [Endless Pizza Box (SCP-458)](https://github.com/Pika-Software/gmod_endless_pizza)
+- [Realtime Player Updater](https://github.com/Pika-Software/gmod_realtime_player_updater)
 - [Fading Doors](https://github.com/Pika-Software/plib_fading_doors)
 - [Easy Ballsocket](https://github.com/Pika-Software/gmod_easy_ballsocket)
 - [OverBro Death Screen](https://github.com/Pika-Software/OverBro_DeathScreen) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2590889815))
@@ -47,20 +63,17 @@
 - [Bit32](https://github.com/Pika-Software/gm_bit32)
 - [MyHTTP](https://github.com/Pika-Software/gmsv_myhttp)
 - [MongoDB](https://github.com/Pika-Software/gmsv_mongodb)
+- [hang2kill](https://github.com/Pika-Software/gmsv_hang2kill)
 
 <h1 align="center">🧩 Всякое</h1>
 
-- [Clear Base](https://github.com/Pika-Software/gmod_clear_base)
 - [Pika Tools](https://github.com/Pika-Software/ptools)
-- [Pika UI](https://github.com/Pika-Software/pui)
-
-<h1 align="center">💿 Internal</h1>
-
-- [Pika Docs](https://github.com/Pika-Software/pika-docs)
-- [Pika Images](https://github.com/Pika-Software/pika-images)
 
 <h1 align="center">🗑️ Поддержка окончена</h1>
 
+- [Console Utils](https://github.com/Pika-Software/gpm_console_utils)
+- [Clear Base](https://github.com/Pika-Software/gmod_clear_base)
+- [Player Country](https://github.com/Pika-Software/gpm_player_country)
 - [PLib](https://github.com/Pika-Software/plib) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2628028051))
 - [PLib Async](https://github.com/Pika-Software/plib-async)
 - [PLib Player Country](https://github.com/Pika-Software/plib_player_country)
