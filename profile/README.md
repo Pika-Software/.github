@@ -37,7 +37,7 @@
 - [Steam Web API](https://github.com/Pika-Software/gpm_steam_web_api)
 - [Fonts](https://github.com/Pika-Software/gpm_fonts)
 - [Hostname](https://github.com/Pika-Software/gpm_hostname)
-- [AWDL](https://github.com/Pika-Software/gpm_awdl)
+- [Automatic Workshop DL](https://github.com/Pika-Software/gpm_awdl)
 - [Workshop DL](https://github.com/Pika-Software/gpm_workshop_dl)
 - [Hardware Info](https://github.com/Pika-Software/gpm_hardware_info)
 - [Server Security](https://github.com/Pika-Software/gpm_server_security)
