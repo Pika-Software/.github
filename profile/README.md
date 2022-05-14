@@ -14,8 +14,8 @@
 
 <h1 align="center">🔧 Системы для серверов</h1>
 
-- [GLua Package Manager](https://github.com/Pika-Software/gpm)
-- [Random Patches](https://github.com/Pika-Software/gmod_random_patches)
+- [GLua Package Manager](https://github.com/Pika-Software/gpm) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2742341430))
+- [Random Patches](https://github.com/Pika-Software/gmod_random_patches) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2806290767))
 - [Community Ban List](https://github.com/Pika-Software/AliumCommunityBans)
 
 <h1 align="center">📦 Пакеты GPM</h1>
@@ -49,9 +49,9 @@
 
 <h1 align="center">✨ Аддоны</h1>
 
-- [RE:Base](https://github.com/Pika-Software/gmod_rebase)
-- [Endless Pizza Box (SCP-458)](https://github.com/Pika-Software/gmod_endless_pizza)
-- [Realtime Player Updater](https://github.com/Pika-Software/gmod_realtime_player_updater)
+- [RE:Base](https://github.com/Pika-Software/gmod_rebase) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2804718813))
+- [Endless Pizza Box (SCP-458)](https://github.com/Pika-Software/gmod_endless_pizza) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2638737055))
+- [Realtime Player Updater](https://github.com/Pika-Software/gmod_realtime_player_updater) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2807143051))
 - [Fading Doors](https://github.com/Pika-Software/plib_fading_doors)
 - [Easy Ballsocket](https://github.com/Pika-Software/gmod_easy_ballsocket)
 - [OverBro Death Screen](https://github.com/Pika-Software/OverBro_DeathScreen) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2590889815))
