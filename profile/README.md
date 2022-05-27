@@ -52,7 +52,7 @@
 - [RE:Base](https://github.com/Pika-Software/gmod_rebase) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2804718813))
 - [Endless Pizza Box (SCP-458)](https://github.com/Pika-Software/gmod_endless_pizza) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2638737055))
 - [Realtime Player Updater](https://github.com/Pika-Software/gmod_realtime_player_updater) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2807143051))
-- [Fading Doors](https://github.com/Pika-Software/plib_fading_doors)
+- [Fading Doors](https://github.com/Pika-Software/gmod_fading_doors)
 - [Easy Ballsocket](https://github.com/Pika-Software/gmod_easy_ballsocket)
 - [OverBro Death Screen](https://github.com/Pika-Software/OverBro_DeathScreen) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2590889815))
 - [Flandre Standby Screen](https://github.com/Pika-Software/flandre_screensaver) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2615576784))
