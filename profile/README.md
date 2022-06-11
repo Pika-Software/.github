@@ -63,7 +63,7 @@
 - [Bit32](https://github.com/Pika-Software/gm_bit32)
 - [MyHTTP](https://github.com/Pika-Software/gmsv_myhttp)
 - [MongoDB](https://github.com/Pika-Software/gmsv_mongodb)
-- [hang2kill](https://github.com/Pika-Software/gmsv_hang2kill)
+- [Hang2Kill](https://github.com/Pika-Software/gmsv_hang2kill)
 
 <h1 align="center">🧩 Всякое</h1>
 
