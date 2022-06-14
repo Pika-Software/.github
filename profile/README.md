@@ -81,6 +81,7 @@
 - [PLang](https://github.com/Pika-Software/gmod_plang) ([Steam](https://steamcommunity.com/workshop/filedetails/?id=2610580017))
 - [Easy Loader](https://github.com/Pika-Software/gmod_easyloader)
 - [Easy Loader Web](https://github.com/Pika-Software/gmod_easyloader_web)
+- [gmsv_steamworks](https://github.com/Pika-Software/gmsv_steamworks)
 
 <h1 align="center">⚡ Команда</h1>
 
