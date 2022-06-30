@@ -16,7 +16,7 @@
 
 - [GLua Package Manager](https://github.com/Pika-Software/gpm) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2742341430))
 - [Random Patches](https://github.com/Pika-Software/gmod_random_patches) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2806290767))
-- [Community Ban List](https://github.com/Pika-Software/AliumCommunityBans)
+- [Community Ban List](https://github.com/Pika-Software/gmod_community_bans)
 
 <h1 align="center">📦 Пакеты GPM</h1>
 
