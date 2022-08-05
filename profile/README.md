@@ -94,5 +94,5 @@
 - [Swanchick](https://steamcommunity.com/id/7656119803207) ([GitHub](https://github.com/Swanchick))
 - [TheFizzyJuice](https://steamcommunity.com/profiles/76561198010188273) ([GitHub](https://github.com/TheFizzyjuice))
 - [Calv1nZer0](https://steamcommunity.com/profiles/76561198189022357) ([GitHub](https://github.com/CalvinZer0))
-- [Troitsky](https://steamcommunity.com/id/76561198193524370) ([GitHub](https://github.com/testeron211))
+- [Troitsky](https://steamcommunity.com/profiles/76561198193524370) ([GitHub](https://github.com/testeron211))
 - [Kactus](https://steamcommunity.com/id/13465914365786783415) ([GitHub](https://github.com/Kactus1))
