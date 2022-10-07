@@ -92,4 +92,5 @@
 - [TheFizzyJuice](https://steamcommunity.com/profiles/76561198010188273) ([GitHub](https://github.com/TheFizzyjuice))
 - [Calv1nZer0](https://steamcommunity.com/profiles/76561198189022357) ([GitHub](https://github.com/CalvinZer0))
 - [Troitsky](https://steamcommunity.com/profiles/76561198193524370) ([GitHub](https://github.com/troit5ky))
+- [aasych](https://steamcommunity.com/id/luasych) ([GitHub](https://github.com/luasych))
 - [Kactus](https://steamcommunity.com/id/13465914365786783415) ([GitHub](https://github.com/Kactus1))
