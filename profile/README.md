@@ -44,7 +44,7 @@
 - [Linear Gradient](https://github.com/Pika-Software/gpm_linear_gradient)
 - [pBit](https://github.com/Pika-Software/gpm_pbit)
 
-<h1 align="center">🔩 Бинарные модули</h1>
+<h1 align="center">🔩 Бинарные Модули</h1>
 
 - [Network](https://github.com/Pika-Software/gmsv_network)
 - [Bit32](https://github.com/Pika-Software/gm_bit32)
@@ -53,6 +53,7 @@
 - [Hang2Kill](https://github.com/Pika-Software/gmsv_hang2kill)
 
 <h1 align="center">🗃️ gLua Модули</h1>
+
 - [NCS Parser](https://github.com/Pika-Software/gmlm_ncs)
 
 <h1 align="center">✨ Аддоны</h1>
