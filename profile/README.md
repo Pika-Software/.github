@@ -55,7 +55,7 @@
 <h1 align="center">🗃️ gLua Модули</h1>
 
 - [NCS Parser](https://github.com/Pika-Software/gmlm_ncs)
-- [Atmosphere gLua API](https://github.com/Pika-Software/gmlm_atmosphere_api)
+- [Atmosphere API](https://github.com/Pika-Software/gmlm_atmosphere_api)
 
 <h1 align="center">✨ Аддоны</h1>
 
