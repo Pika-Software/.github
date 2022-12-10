@@ -29,6 +29,7 @@
 - [NCS Parser](https://github.com/Pika-Software/gmlm_ncs)
 - [Atmosphere API](https://github.com/Pika-Software/gmlm_atmosphere_api)
 - [Player Eyes](https://github.com/Pika-Software/plib_player_eyes)
+- [Game Ready](https://github.com/Pika-Software/plib_game_ready)
 - [fdebug](https://github.com/Pika-Software/plib_fdebug)
 
 <h1 align="center">✨ Add-ons</h1>
@@ -40,6 +41,7 @@
 - [Realtime Player Updater](https://github.com/Pika-Software/gmod_realtime_player_updater) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2807143051))
 - [First Person Death Cam](https://github.com/Pika-Software/plib_first_person_death)
 - [Improved Player Ragdolls](https://github.com/Pika-Software/gmod_improved_player_ragdolls)
+- [Weapons for Player Ragdolls](https://github.com/Pika-Software/gmod_weapons_for_player_ragdolls)
 
 <h1 align="center">📦 GPM Packages</h1>
 
