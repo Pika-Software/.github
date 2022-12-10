@@ -28,6 +28,8 @@
 
 - [NCS Parser](https://github.com/Pika-Software/gmlm_ncs)
 - [Atmosphere API](https://github.com/Pika-Software/gmlm_atmosphere_api)
+- [Player Eyes](https://github.com/Pika-Software/plib_player_eyes)
+- [fdebug](https://github.com/Pika-Software/plib_fdebug)
 
 <h1 align="center">✨ Аддоны</h1>
 
@@ -36,10 +38,7 @@
 - [gLua Developer Tools](https://github.com/Pika-Software/gmod_developer_tools)
 - [Endless Pizza Box (SCP-458)](https://github.com/Pika-Software/gmod_endless_pizza) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2638737055))
 - [Realtime Player Updater](https://github.com/Pika-Software/gmod_realtime_player_updater) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2807143051))
-- [Easy Ballsocket](https://github.com/Pika-Software/gmod_easy_ballsocket)
-- [Fading Doors](https://github.com/Pika-Software/gmod_fading_doors)
-- [OverBro Death Screen](https://github.com/Pika-Software/OverBro_DeathScreen) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2590889815))
-- [Flandre Standby Screen](https://github.com/Pika-Software/flandre_screensaver) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2615576784))
+- [First Person Death Cam](https://github.com/Pika-Software/plib_first_person_death)
 
 <h1 align="center">📦 Пакеты GPM</h1>
 
