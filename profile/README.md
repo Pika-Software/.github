@@ -39,6 +39,7 @@
 - [Endless Pizza Box (SCP-458)](https://github.com/Pika-Software/gmod_endless_pizza) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2638737055))
 - [Realtime Player Updater](https://github.com/Pika-Software/gmod_realtime_player_updater) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2807143051))
 - [First Person Death Cam](https://github.com/Pika-Software/plib_first_person_death)
+- [Improved Player Ragdolls](https://github.com/Pika-Software/gmod_improved_player_ragdolls)
 
 <h1 align="center">📦 Пакеты GPM</h1>
 
