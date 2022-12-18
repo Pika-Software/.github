@@ -9,23 +9,20 @@
 <a href="https://discord.gg/3UVxhZj"><img align="center" src="https://img.shields.io/badge/Discord-%237289da?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
-<h1 align="center">🔧 Server Systems</h1>
-
+## 🔧 Server Systems
 - [Community Ban Lists - Core](https://github.com/Pika-Software/gmod_community_ban_lists)
 - [Community Ban Lists - Alium](https://github.com/Pika-Software/gmod_alium_bans)
 - [GLua Package Manager](https://github.com/Pika-Software/gpm) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2742341430))
 - [PLib](https://github.com/Pika-Software/plib) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2628028051))
 
-<h1 align="center">🔩 Binnary Modules</h1>
-
+## 🔩 Binnary Modules
 - [Network](https://github.com/Pika-Software/gmsv_network)
 - [Bit32](https://github.com/Pika-Software/gm_bit32)
 - [MyHTTP](https://github.com/Pika-Software/gmsv_myhttp)
 - [MongoDB](https://github.com/Pika-Software/gmsv_mongodb)
 - [Hang2Kill](https://github.com/Pika-Software/gmsv_hang2kill)
 
-<h1 align="center">🗃️ gLua Modules</h1>
-
+## 🗃️ gLua Modules
 - [NCS Parser](https://github.com/Pika-Software/gmlm_ncs)
 - [Atmosphere API](https://github.com/Pika-Software/gmlm_atmosphere_api)
 - [Player Eyes](https://github.com/Pika-Software/plib_player_eyes)
@@ -35,8 +32,7 @@
 - [HTTP](https://github.com/Pika-Software/plib_http)
 - [Request](https://github.com/Pika-Software/plib_request)
 
-<h1 align="center">✨ Add-ons</h1>
-
+## ✨ Add-ons
 - [RE:Base](https://github.com/Pika-Software/gmod_rebase) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2804718813))
 - [gLua Developer Tools](https://github.com/Pika-Software/gmod_developer_tools)
 - [Random Patches](https://github.com/Pika-Software/gmod_random_patches) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2806290767))
@@ -47,8 +43,7 @@
 - [Weapons for Player Ragdolls](https://github.com/Pika-Software/gmod_weapons_for_player_ragdolls)
 - [Clear Base](https://github.com/Pika-Software/gmod_clear_base)
 
-<h1 align="center">📦 GPM Packages</h1>
-
+## 📦 GPM Packages
 - [Game Ready](https://github.com/Pika-Software/gpm_game_ready)
 - [Environment Library](https://github.com/Pika-Software/gpm_environment_lib)
 - [Base Extensions](https://github.com/Pika-Software/gpm_base_extensions)
@@ -76,12 +71,11 @@
 - [Linear Gradient](https://github.com/Pika-Software/gpm_linear_gradient)
 - [pBit](https://github.com/Pika-Software/gpm_pbit)
 
-<h1 align="center">🧩 Other</h1>
-
+## 🧩 Other
 - [Docs](https://github.com/Pika-Software/pika-docs)
 - [Tools](https://github.com/Pika-Software/ptools)
 - [Images](https://github.com/Pika-Software/pika-images)
 
-<h1 align="center">🗑️ No Longer Supported</h1>
+## 🗑️ No Longer Supported
 - [gmsv_steamworks](https://github.com/Pika-Software/gmsv_steamworks)
 - [Console Utils](https://github.com/Pika-Software/gpm_console_utils)
