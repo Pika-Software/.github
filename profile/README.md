@@ -45,6 +45,7 @@
 - [First Person Death Cam](https://github.com/Pika-Software/plib_first_person_death)
 - [Improved Player Ragdolls](https://github.com/Pika-Software/gmod_improved_player_ragdolls)
 - [Weapons for Player Ragdolls](https://github.com/Pika-Software/gmod_weapons_for_player_ragdolls)
+- [Clear Base](https://github.com/Pika-Software/gmod_clear_base)
 
 <h1 align="center">📦 GPM Packages</h1>
 
@@ -82,7 +83,5 @@
 - [Images](https://github.com/Pika-Software/pika-images)
 
 <h1 align="center">🗑️ No Longer Supported</h1>
-
 - [gmsv_steamworks](https://github.com/Pika-Software/gmsv_steamworks)
 - [Console Utils](https://github.com/Pika-Software/gpm_console_utils)
-- [Clear Base](https://github.com/Pika-Software/gmod_clear_base)
