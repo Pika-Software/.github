@@ -31,6 +31,9 @@
 - [Player Eyes](https://github.com/Pika-Software/plib_player_eyes)
 - [Game Ready](https://github.com/Pika-Software/plib_game_ready)
 - [fdebug](https://github.com/Pika-Software/plib_fdebug)
+- [CHTTP](https://github.com/Pika-Software/plib_chttp)
+- [HTTP](https://github.com/Pika-Software/plib_http)
+- [Request](https://github.com/Pika-Software/plib_request)
 
 <h1 align="center">✨ Add-ons</h1>
 
