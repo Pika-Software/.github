@@ -1,6 +1,6 @@
 ![Pika-Soft](https://i.imgur.com/HOjiNui.png "Pika-Soft")
 
-#### Некоммерческая организация, занимающаяся разработкой компьютерных игр и модификаций для них. В частности разработкой и запуском игровых серверов Garry's Mod. Ведём свою деятельность начиная с 2018 года, сотрудничаем с сообществами Garry's Mod. Имеем большой опыт в администрировании [Linux](https://ru.wikipedia.org/wiki/Linux) систем ([Debian](https://www.debian.org/index.ru.html), [CentOS](https://www.centos.org/), [Ubuntu](https://ubuntu.com/)). Кроме прочего разрабатываем веб-приложения на [NodeJS](https://nodejs.org/), [PHP](https://www.php.net/) и [Rust](https://www.rust-lang.org/).
+#### A non-profit organization engaged in the development of computer games and modifications for them. In particular, the development and launch of Garry's Mod game servers. We have been working since 2018, cooperating with Garry's Mod communities. We have great experience in administering [Linux](https://ru.wikipedia.org/wiki/Linux) systems ([Debian](https://www.debian.org/index.ru.html), [CentOS](https://www.centos.org/), [Ubuntu](https://ubuntu.com/)). Among other things, we develop web applications on [NodeJS](https://nodejs.org/), [PHP](https://www.php.net/) and [Rust](https://www.rust-lang.org/).
 
 <h1 align="center">🔗 Social Links</h1>
 
@@ -25,23 +25,30 @@
 ## 🗃️ gLua Modules
 - [NCS Parser](https://github.com/Pika-Software/gmlm_ncs)
 - [Atmosphere API](https://github.com/Pika-Software/gmlm_atmosphere_api)
-- [Player Eyes](https://github.com/Pika-Software/plib_player_eyes)
-- [Game Ready](https://github.com/Pika-Software/plib_game_ready)
 - [fdebug](https://github.com/Pika-Software/plib_fdebug)
 - [CHTTP](https://github.com/Pika-Software/plib_chttp)
 - [HTTP](https://github.com/Pika-Software/plib_http)
 - [Request](https://github.com/Pika-Software/plib_request)
+- [Player Extensions](https://github.com/Pika-Software/plib_player_extensions)
+- [Entity Position Kit](https://github.com/Pika-Software/plib_entity_positioning_kit)
+- [Sound Extensions](https://github.com/Pika-Software/plib_sound_extensions)
+- [Web Material](https://github.com/Pika-Software/plib_web_material)
+- [Filesystem](https://github.com/Pika-Software/plib_filesystem)
+- [Language](https://github.com/Pika-Software/plib_language)
 
 ## ✨ Add-ons
 - [RE:Base](https://github.com/Pika-Software/gmod_rebase) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2804718813))
 - [gLua Developer Tools](https://github.com/Pika-Software/gmod_developer_tools)
 - [Random Patches](https://github.com/Pika-Software/gmod_random_patches) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2806290767))
-- [Endless Pizza Box (SCP-458)](https://github.com/Pika-Software/gmod_endless_pizza) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2638737055))
 - [Realtime Player Updater](https://github.com/Pika-Software/gmod_realtime_player_updater) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2807143051))
+- [Endless Pizza Box (SCP-458)](https://github.com/Pika-Software/gmod_endless_pizza) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2638737055))
 - [First Person Death Cam](https://github.com/Pika-Software/plib_first_person_death)
 - [Improved Player Ragdolls](https://github.com/Pika-Software/gmod_improved_player_ragdolls)
-- [Weapons for Player Ragdolls](https://github.com/Pika-Software/gmod_weapons_for_player_ragdolls)
+- [Player Ragdolls on Disconnect](https://github.com/Pika-Software/gmod_player_ragdolls_on_disconnect)
+- [Translate](https://github.com/Pika-Software/plib_translate)
+- [TTS](https://github.com/Pika-Software/plib_tts)
 - [Clear Base](https://github.com/Pika-Software/gmod_clear_base)
+- [Async](https://github.com/Pika-Software/plib_async)
 
 ## 📦 GPM Packages
 - [Game Ready](https://github.com/Pika-Software/gpm_game_ready)
