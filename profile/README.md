@@ -1,6 +1,6 @@
 ![Pika-Soft](https://i.imgur.com/HOjiNui.png "Pika-Soft")
 
-#### A non-profit organization engaged in the development of computer games and modifications for them. In particular, the development and launch of Garry's Mod game servers. We have been working since 2018, cooperating with Garry's Mod communities. We have great experience in administering [Linux](https://ru.wikipedia.org/wiki/Linux) systems ([Debian](https://www.debian.org/index.ru.html), [CentOS](https://www.centos.org/), [Ubuntu](https://ubuntu.com/)). Among other things, we develop web applications on [NodeJS](https://nodejs.org/), [PHP](https://www.php.net/) and [Rust](https://www.rust-lang.org/).
+#### A non-profit organization engaged in the development of computer games and modifications for them. In particular, the development and launch of Garry's Mod game servers. We have been working since 2018, cooperating with Garry's Mod communities. We have good experience in administering [Linux](https://ru.wikipedia.org/wiki/Linux) systems ([Debian](https://www.debian.org/index.ru.html), [CentOS](https://www.centos.org/), [Ubuntu](https://ubuntu.com/)). Among other things, we develop web applications on [NodeJS](https://nodejs.org/), [PHP](https://www.php.net/) and [Rust](https://www.rust-lang.org/).
 
 <h1 align="center">🔗 Social Links</h1>
 
