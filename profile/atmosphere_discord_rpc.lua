@@ -237,10 +237,5 @@ do
             end )
         end )
     end )
-
-    -- hook.Add( 'ChangeLevel', Plugin.Name, function()
-    --     discord.SetTitle( 'atmosphere.map_change' )
-    --     discord.StartTimeInGame()
-    -- end )
-
+   
 end
