@@ -189,7 +189,7 @@ end
 
 do
 
-    local serverDelay = convars.Create( 'discord_server_delay', 15, TYPE_NUMBER, ' - Time interval between server information updates.', true, 5, 120 )
+    local serverDelay = convars.Create( 'discord_server_delay', 20, TYPE_NUMBER, ' - Time interval between server information updates.', true, 5, 120 )
     local nextUpdate = 0
 
     hook.Add( 'Think', Plugin.Name, function()
