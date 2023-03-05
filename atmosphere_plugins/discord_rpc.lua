@@ -20,27 +20,25 @@ local server = atmosphere.server
 local steam = atmosphere.steam
 local logger = discord.Logger
 local api = atmosphere.api
-
 local hook = hook
 
+-- Presets
 local function steamInfo()
     local clientInfo = steam.GetClientInfo()
     if clientInfo and clientInfo.steamid then
         steam.GetUser( steam.IDTo64( clientInfo.steamid ) ):Then( function( result )
             discord.SetupIcon( result.nickname, result.avatar )
-        end)
+        end )
     end
 end
 
 local function menuInfo( title, logo )
-    -- Time in menu
     if (title ~= discord.GetTitle()) then
         discord.StartTimeInGame()
     end
 
-    -- Menu Info
-    discord.SetTitle( title )
     discord.SetupImage( title, logo )
+    discord.SetTitle( title )
 
     steamInfo()
 end
@@ -49,121 +47,125 @@ local function mainMenu()
     menuInfo( 'atmosphere.mainmenu', 'clouds' )
 end
 
-local attempts = 1
-local function connect()
-    if discord.IsConnected() then return end
-    logger:Info( 'Searching for a client...' )
+-- Discord Connect Managment
+do
 
-    local code = discord.Init( '1016151516761030717' )
-    if (code == 0) then
-        attempts = 1
-        return
+    local timer = timer
+    local attempts = 1
+
+    local function connect()
+        if discord.IsConnected() then return end
+        logger:Info( 'Searching for a client...' )
+
+        local code = discord.Init( '1016151516761030717' )
+        if (code == 0) then
+            attempts = 1
+            return
+        end
+
+        local delay = attempts * 2
+        timer.Create( 'atmoshere.discord.rpc.reconnect', delay, 1, connect )
+        logger:Warn( 'Client disconnected (Code: %s), next attempt after %s sec.', code, delay )
+        attempts = math.Clamp( attempts + 1, 1, 15 )
     end
 
-    local delay = attempts * 2
-    timer.Create( 'atmoshere.discord.rpc.reconnect', delay, 1, connect )
-    logger:Warn( 'Client disconnected (Code: %s), next attempt after %s sec.', code, delay )
-    attempts = math.Clamp( attempts + 1, 1, 15 )
+    hook.Add( 'DiscordConnected', Plugin.Name, function()
+        timer.Remove( 'atmoshere.discord.rpc.reconnect' )
+        logger:Info( 'Client successfully connected.' )
+    end )
+
+    hook.Add( 'DiscordDisconnected', Plugin.Name, function()
+        timer.Create( 'atmoshere.discord.rpc.reconnect', 0.25, 1, connect )
+        logger:Warn( 'Client disconnected, reconnecting...' )
+    end )
+
+    hook.Add( 'DiscordReady', Plugin.Name, function()
+        discord.Update()
+    end )
+
+    hook.Add( 'DiscordLoaded', Plugin.Name, function()
+        connect()
+        mainMenu()
+    end )
+
 end
 
-hook.Add( 'DiscordConnected', Plugin.Name, function()
-    timer.Remove( 'atmoshere.discord.rpc.reconnect' )
-    logger:Info( 'Client successfully connected.' )
-end )
-
-hook.Add( 'DiscordDisconnected', Plugin.Name, function()
-    timer.Create( 'atmoshere.discord.rpc.reconnect', 0.25, 1, connect )
-    logger:Warn( 'Client disconnected, reconnecting...' )
-end )
-
-hook.Add( 'DiscordReady', Plugin.Name, function()
-    discord.Update()
-end )
-
-hook.Add( 'DiscordLoaded', Plugin.Name, function()
-    connect()
-    mainMenu()
-end )
-
--- Loading Status Feature
-local loadingStatus = convars.Create( 'discord_loading_status', false, TYPE_BOOL, ' - Displays the connection process in your Discord activity.', true )
-hook.Add( 'LoadingStatusChanged', Plugin.Name, function( status )
-    if not loadingStatus:GetValue() then return end
-    discord.SetTitle( status )
-end )
-
--- Server Info
-local serverData = server.ServerData
-
-hook.Add( 'ServerDetails', Plugin.Name, function( result )
-    discord.SetState( gamemode.GetName( result.Gamemode ) )
-    discord.SetPartySize( 1, result.MaxPlayers )
-    discord.SetImageText( result.Map )
-
-    if not loadingStatus:GetValue() then
-        discord.SetTitle( result.Name )
-    end
-
-    api.GameTrackerMapIcon( result.Map ):Then( function( url )
-        discord.SetImage( url )
-    end,
-    function()
-        discord.SetImage( 'gm_construct' )
-    end )
-end )
-
-hook.Add( 'ServerInfo', Plugin.Name, function( result )
-    discord.SetPartySize( result.HumanCount, result.MaxPlayers )
-    discord.SetState( gamemode.GetName( result.Gamemode ) )
-    discord.SetImageText( result.Map )
-
-    if not loadingStatus:GetValue() then
-        discord.SetTitle( result.Name )
-    end
-
-    api.GameTrackerMapIcon( result.Map ):Then( function( url )
-        discord.SetImage( url )
-    end,
-    function()
-        discord.SetImage( 'gm_construct' )
-    end )
-
-    steamInfo()
-end )
-
+-- Loading Info
 hook.Add( 'LoadingStarted', Plugin.Name, function()
-    discord.SetTitle( 'atmosphere.connecting_to_server' )
+    discord.Clear()
     discord.StartTimeInGame()
+    discord.SetImage( 'no_icon' )
+    discord.SetImageText( 'unknown' )
+    discord.SetState( 'atmosphere.connecting_to_server' )
 end )
 
-hook.Add( 'Disconnected', Plugin.Name, function()
+hook.Add( 'LoadingFinished', Plugin.Name, function()
+    if server.IsConnected() then return end
     discord.Clear()
     mainMenu()
 end )
+
+local loadingStatus = convars.Create( 'discord_loading_status', true, TYPE_BOOL, ' - Displays the connection process in your Discord activity.', true )
+hook.Add( 'LoadingStatusChanged', Plugin.Name, function( status )
+    if not loadingStatus:GetValue() then return end
+    if server.IsConnected() then return end
+    discord.SetTitle( status )
+end )
+
+-- Game Info
+hook.Add( 'ServerDetails', Plugin.Name, function( result )
+    discord.SetImageText( result.Map )
+
+    api.GameTrackerMapIcon( result.Map ):Then( function( url )
+        discord.SetImage( url )
+    end, function()
+        discord.SetImage( 'no_icon' )
+    end )
+
+    if loadingStatus:GetValue() then return end
+    discord.SetState( gamemode.GetName( result.Gamemode ) )
+    discord.SetTitle( result.Name )
+end )
+
+local serverInfo = server.ServerInfo
 
 do
 
     local string = string
     local util = util
 
-    hook.Add( 'LoadingFinished', Plugin.Name, function()
-        discord.SetState( gamemode.GetName( serverData.Gamemode or 'unknown' ) )
-        discord.SetTitle( serverData.Name or 'unknown' )
-        discord.StartTimeInGame()
+    hook.Add( 'ClientConnected', Plugin.Name, function()
         steamInfo()
 
-        if server.IsLocalHost() then
-            local clientInfo = steam.GetClientInfo()
-            if not clientInfo or not clientInfo.steamid then return end
+        discord.SetState( gamemode.GetName( Either( serverInfo.Gamemode == nil, engine.ActiveGamemode(), serverInfo.Gamemode ) ) )
+        discord.SetTitle( server.GetHostName() )
+        discord.SetImageText( serverInfo.Map )
+        discord.StartTimeInGame()
 
-            discord.SetJoinSecret( util.Base64Encode( string.format( 'p2p:%s;%s', steam.IDTo64( clientInfo.steamid ), cvars.String( 'sv_password', '' ) ) ) )
-            discord.SetPartyID( util.UUID() )
-            return
+        api.GameTrackerMapIcon( serverInfo.Map ):Then( function( url )
+            discord.SetImage( url )
+        end, function()
+            discord.SetImage( 'gm_construct' )
+        end )
+
+        local secret = { server.GetAddress() }
+        if (secret[ 1 ] == 'loopback') then
+            local sid64 = serverInfo.SteamID64
+            if not sid64 then sid64 = steam.IDTo64( steam.GetClientInfo().steamid ) end
+
+            secret[ 1 ] = 'p2p:' .. sid64
+            secret[ 3 ] = cvars.String( 'sv_password' )
+            secret[ 2 ] = util.GetUUID()
+        elseif server.IsP2P( secret[ 1 ] ) then
+            secret[ 2 ] = discord.GetPartyID() or util.GetUUID()
+            secret[ 3 ] = cvars.String( 'password' )
+        else
+            secret[ 2 ] = string.format( '%02x%02x%02x%02x-%02x%02x-%02x%02x-%02x%02x-%02x%02x%02x%02x%02x%02x', string.byte( secret[ 1 ], 1, 16 ) )
+            secret[ 3 ] = cvars.String( 'password' )
         end
 
-        local address = server.GetAddress()
-        discord.SetJoinSecret( util.Base64Encode( address .. ';' .. cvars.String( 'password', '' ) ) )
-        discord.SetPartyID( string.format( '%02x%02x%02x%02x-%02x%02x-%02x%02x-%02x%02x-%02x%02x%02x%02x%02x%02x', string.byte( address, 1, 16 ) ) )
+        discord.SetJoinSecret( util.Base64Encode( table.concat( secret, ';' ) ) )
+        discord.SetPartyID( secret[ 2 ] )
     end )
 
     hook.Add( 'DiscordJoin', Plugin.Name, function( joinSecret )
@@ -173,12 +175,17 @@ do
         local secretData = string.Split( secret, ';' )
         if (#secretData < 1) then return end
 
-        local address = secretData[1]
+        local address = secretData[ 1 ]
         if not address then return end
 
-        local password = secretData[2]
-        if (password ~= nil and password ~= '') then
-            console.Run( 'password', password )
+        local partyID = secretData[ 2 ]
+        if (partyID ~= nil) then
+            discord.SetPartyID( partyID )
+
+            local password = secretData[ 3 ]
+            if (password ~= nil and password ~= '') then
+                console.Run( 'password', password )
+            end
         end
 
         discord.Logger:Info( 'Connecting to %s', address )
@@ -189,53 +196,24 @@ end
 
 do
 
-    local serverDelay = convars.Create( 'discord_server_delay', 20, TYPE_NUMBER, ' - Time interval between server information updates.', true, 5, 120 )
+    local serverDelay = convars.Create( 'discord_server_delay', 3, TYPE_NUMBER, ' - Time interval between server information updates.', true, 1, 120 )
+    local CurTime = CurTime
     local nextUpdate = 0
 
     hook.Add( 'Think', Plugin.Name, function()
         if not server.IsConnected() then return end
 
-        local clientState = server.GetClientState()
-        if (clientState >= 0 and clientState < 5 or clientState == 7) then return end
-
-        if server.IsSinglePlayer() then return end
-
         local time = CurTime()
         if (nextUpdate > time) then return end
         nextUpdate = time + serverDelay:GetValue()
 
-        if server.IsLocalHost() or server.IsP2P() then
-            -- TODO: Need a method to get players count here
-            discord.SetPartySize( 1, cvars.Number( 'maxplayers', 2 ) )
-            discord.SetState( gamemode.GetName( cvars.String( 'gamemode', 'sandbox' ) ) )
-            discord.SetTitle( cvars.String( 'hostname', 'Garry\'s Mod' ) )
-
-            local mapName = serverData.Map or 'gm_construct'
-            discord.SetImageText( mapName )
-
-            api.GameTrackerMapIcon( mapName ):Then( function( url )
-                discord.SetImage( url )
-            end,
-            function()
-                discord.SetImage( 'gm_construct' )
-            end )
-
-            return
-        end
-
-        server.Get( server.GetAddress() ):Then( function( result )
-            discord.SetPartySize( result.humans, result.maxplayers )
-            discord.SetState( gamemode.GetName( result.gamemode ) )
-            discord.SetImageText( result.map )
-            discord.SetTitle( result.name )
-
-            api.GameTrackerMapIcon( result.map ):Then( function( url )
-                discord.SetImage( url )
-            end,
-            function()
-                discord.SetImage( 'gm_construct' )
-            end )
-        end )
+        discord.SetPartySize( server.GetPlayerCount(), serverInfo.MaxPlayers )
+        discord.SetTitle( server.GetHostName() )
     end )
 
 end
+
+hook.Add( 'ClientDisconnected', Plugin.Name, function()
+    discord.Clear()
+    mainMenu()
+end )
