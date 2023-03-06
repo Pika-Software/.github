@@ -22,7 +22,7 @@ local logger = discord.Logger
 local api = atmosphere.api
 local hook = hook
 
--- Presets
+-- Convenient functions
 local function steamInfo()
     local clientInfo = steam.GetClientInfo()
     if clientInfo and clientInfo.steamid then
@@ -30,6 +30,16 @@ local function steamInfo()
             discord.SetupIcon( result.nickname, result.avatar )
         end )
     end
+end
+
+local function mapInfo( mapName )
+    discord.SetImageText( mapName )
+
+    api.GetMapIcon( mapName ):Then( function( imageURL )
+        discord.SetImage( imageURL )
+    end, function()
+        discord.SetImage( 'no_icon' )
+    end )
 end
 
 local function menuInfo( title, logo )
@@ -114,13 +124,7 @@ end )
 
 -- Game Info
 hook.Add( 'ServerDetails', Plugin.Name, function( result )
-    discord.SetImageText( result.Map )
-
-    api.GameTrackerMapIcon( result.Map ):Then( function( url )
-        discord.SetImage( url )
-    end, function()
-        discord.SetImage( 'no_icon' )
-    end )
+    mapInfo( result.Map )
 
     if loadingStatus:GetValue() then return end
     discord.SetState( gamemode.GetName( result.Gamemode ) )
@@ -139,14 +143,8 @@ do
 
         discord.SetState( gamemode.GetName( Either( serverInfo.Gamemode == nil, engine.ActiveGamemode(), serverInfo.Gamemode ) ) )
         discord.SetTitle( server.GetHostName() )
-        discord.SetImageText( serverInfo.Map )
         discord.StartTimeInGame()
-
-        api.GameTrackerMapIcon( serverInfo.Map ):Then( function( url )
-            discord.SetImage( url )
-        end, function()
-            discord.SetImage( 'gm_construct' )
-        end )
+        mapInfo( result.Map )
 
         local secret = { server.GetAddress() }
         if (secret[ 1 ] == 'loopback') then
