@@ -144,7 +144,7 @@ do
         discord.SetState( gamemode.GetName( Either( serverInfo.Gamemode == nil, engine.ActiveGamemode(), serverInfo.Gamemode ) ) )
         discord.SetTitle( server.GetHostName() )
         discord.StartTimeInGame()
-        mapInfo( result.Map )
+        mapInfo( serverInfo.Map )
 
         local secret = { server.GetAddress() }
         if (secret[ 1 ] == 'loopback') then
