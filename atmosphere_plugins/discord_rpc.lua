@@ -69,6 +69,7 @@ do
 
         local code = discord.Init( '1016151516761030717' )
         if (code == 0) then
+            logger:Info( 'Discord client detected, pending connection.' )
             attempts = 1
             return
         end
