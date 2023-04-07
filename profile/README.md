@@ -52,7 +52,6 @@
 
 ## 📦 GPM Packages
 - [Game Ready](https://github.com/Pika-Software/gpm_game_ready)
-- [Environment Library](https://github.com/Pika-Software/gpm_environment_lib)
 - [Base Extensions](https://github.com/Pika-Software/gpm_base_extensions)
 - [Math Extensions](https://github.com/Pika-Software/gpm_math_extensions)
 - [Color Extensions](https://github.com/Pika-Software/gpm_color_extensions)
