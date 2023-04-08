@@ -39,7 +39,6 @@
 - [Clear Base](https://github.com/Pika-Software/gmod_clear_base)
 
 ## 🗃️ gLua Modules
-- [HTTP](https://github.com/Pika-Software/plib_http)
 - [Request](https://github.com/Pika-Software/plib_request)
 - [Player Extensions](https://github.com/Pika-Software/plib_player_extensions)
 - [Entity Position Kit](https://github.com/Pika-Software/plib_entity_positioning_kit)
