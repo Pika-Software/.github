@@ -42,10 +42,8 @@
 - [Request](https://github.com/Pika-Software/plib_request)
 - [Player Extensions](https://github.com/Pika-Software/plib_player_extensions)
 - [Entity Position Kit](https://github.com/Pika-Software/plib_entity_positioning_kit)
-- [Sound Extensions](https://github.com/Pika-Software/plib_sound_extensions)
 - [Web Material](https://github.com/Pika-Software/plib_web_material)
 - [Filesystem](https://github.com/Pika-Software/plib_filesystem)
-- [Language](https://github.com/Pika-Software/plib_language)
 
 ## 🧩 Other
 - [Docs](https://github.com/Pika-Software/pika-docs)
