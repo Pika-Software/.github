@@ -24,19 +24,8 @@
 - [MongoDB](https://github.com/Pika-Software/gmsv_mongodb)
 - [Hang2Kill](https://github.com/Pika-Software/gmsv_hang2kill)
 
-## 🗃️ gLua Modules
-- [fdebug](https://github.com/Pika-Software/plib_fdebug)
-- [CHTTP](https://github.com/Pika-Software/plib_chttp)
-- [HTTP](https://github.com/Pika-Software/plib_http)
-- [Request](https://github.com/Pika-Software/plib_request)
-- [Player Extensions](https://github.com/Pika-Software/plib_player_extensions)
-- [Entity Position Kit](https://github.com/Pika-Software/plib_entity_positioning_kit)
-- [Sound Extensions](https://github.com/Pika-Software/plib_sound_extensions)
-- [Web Material](https://github.com/Pika-Software/plib_web_material)
-- [Filesystem](https://github.com/Pika-Software/plib_filesystem)
-- [Language](https://github.com/Pika-Software/plib_language)
-
 ## ✨ Add-ons
+- [Automatic Workshop DL](https://github.com/Pika-Software/gpm_awdl)
 - [RE:Base](https://github.com/Pika-Software/gmod_rebase) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2804718813))
 - [gLua Developer Tools](https://github.com/Pika-Software/gmod_developer_tools)
 - [Random Patches](https://github.com/Pika-Software/gmod_random_patches) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2806290767))
@@ -48,7 +37,18 @@
 - [Translate](https://github.com/Pika-Software/plib_translate)
 - [TTS](https://github.com/Pika-Software/plib_tts)
 - [Clear Base](https://github.com/Pika-Software/gmod_clear_base)
-- [Async](https://github.com/Pika-Software/plib_async)
+
+## 🗃️ gLua Modules
+- [fdebug](https://github.com/Pika-Software/plib_fdebug)
+- [CHTTP](https://github.com/Pika-Software/plib_chttp)
+- [HTTP](https://github.com/Pika-Software/plib_http)
+- [Request](https://github.com/Pika-Software/plib_request)
+- [Player Extensions](https://github.com/Pika-Software/plib_player_extensions)
+- [Entity Position Kit](https://github.com/Pika-Software/plib_entity_positioning_kit)
+- [Sound Extensions](https://github.com/Pika-Software/plib_sound_extensions)
+- [Web Material](https://github.com/Pika-Software/plib_web_material)
+- [Filesystem](https://github.com/Pika-Software/plib_filesystem)
+- [Language](https://github.com/Pika-Software/plib_language)
 
 ## 🧩 Other
 - [Docs](https://github.com/Pika-Software/pika-docs)
