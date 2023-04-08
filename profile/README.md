@@ -10,10 +10,12 @@
 </p>
 
 ## 🔧 Server Systems
+- [GLua Package Manager](https://github.com/Pika-Software/glua_package_manager)
 - [Community Ban Lists - Core](https://github.com/Pika-Software/gmod_community_ban_lists)
 - [Community Ban Lists - Alium](https://github.com/Pika-Software/gmod_alium_bans)
-- [GLua Package Manager](https://github.com/Pika-Software/gpm) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2742341430))
-- [PLib](https://github.com/Pika-Software/plib) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2628028051))
+
+## 📦 Packages
+- [GLua Extensions](https://github.com/Pika-Software/glua_extensions)
 
 ## 🔩 Binnary Modules
 - [Network](https://github.com/Pika-Software/gmsv_network)
@@ -21,9 +23,6 @@
 - [MyHTTP](https://github.com/Pika-Software/gmsv_myhttp)
 - [MongoDB](https://github.com/Pika-Software/gmsv_mongodb)
 - [Hang2Kill](https://github.com/Pika-Software/gmsv_hang2kill)
-
-## 📦 Packages
-- [GLua Extensions](https://github.com/Pika-Software/glua_extensions)
 
 ## 🗃️ gLua Modules
 - [NCS Parser](https://github.com/Pika-Software/gmlm_ncs)
@@ -59,4 +58,6 @@
 - [Images](https://github.com/Pika-Software/pika-images)
 
 ## 🗑️ No Longer Supported
+- [GLua Package Manager: Legacy](https://github.com/Pika-Software/gpm)
 - [gmsv_steamworks](https://github.com/Pika-Software/gmsv_steamworks)
+- [PLib](https://github.com/Pika-Software/plib)
