@@ -22,6 +22,9 @@
 - [MongoDB](https://github.com/Pika-Software/gmsv_mongodb)
 - [Hang2Kill](https://github.com/Pika-Software/gmsv_hang2kill)
 
+## 📦 Packages
+- [GLua Extensions](https://github.com/Pika-Software/glua_extensions)
+
 ## 🗃️ gLua Modules
 - [NCS Parser](https://github.com/Pika-Software/gmlm_ncs)
 - [Atmosphere API](https://github.com/Pika-Software/gmlm_atmosphere_api)
@@ -50,33 +53,6 @@
 - [Clear Base](https://github.com/Pika-Software/gmod_clear_base)
 - [Async](https://github.com/Pika-Software/plib_async)
 
-## 📦 GPM Packages
-- [Game Ready](https://github.com/Pika-Software/gpm_game_ready)
-- [Base Extensions](https://github.com/Pika-Software/gpm_base_extensions)
-- [Math Extensions](https://github.com/Pika-Software/gpm_math_extensions)
-- [Color Extensions](https://github.com/Pika-Software/gpm_color_extensions)
-- [Extra Extensions](https://github.com/Pika-Software/gpm_extra_extensions)
-- [Team Extensions](https://github.com/Pika-Software/gpm_team_extensions)
-- [HTTP Extensions](https://github.com/Pika-Software/gpm_http_extensions)
-- [Player Extensions](https://github.com/Pika-Software/gpm_player_extensions)
-- [Chat Extensions](https://github.com/Pika-Software/gpm_chat_extensions)
-- [Voice Chat Extensions](https://github.com/Pika-Software/gpm_voice_chat_extensions)
-- [Language Extensions](https://github.com/Pika-Software/gpm_language_extensions)
-- [Standby Screen](https://github.com/Pika-Software/gpm_standby_screen)
-- [Player Roles](https://github.com/Pika-Software/gpm_player_roles)
-- [Steam Web API](https://github.com/Pika-Software/gpm_steam_web_api)
-- [Fonts](https://github.com/Pika-Software/gpm_fonts)
-- [Hostname](https://github.com/Pika-Software/gpm_hostname)
-- [Automatic Workshop DL](https://github.com/Pika-Software/gpm_awdl)
-- [Workshop DL](https://github.com/Pika-Software/gpm_workshop_dl)
-- [Hardware Info](https://github.com/Pika-Software/gpm_hardware_info)
-- [Server Security](https://github.com/Pika-Software/gpm_server_security)
-- [Perma Entities](https://github.com/Pika-Software/gpm_perma_entities)
-- [Drop Weapon](https://github.com/Pika-Software/gpm_drop_weapon)
-- [Sound Analyze](https://github.com/Pika-Software/gpm_sound_analyze)
-- [Linear Gradient](https://github.com/Pika-Software/gpm_linear_gradient)
-- [pBit](https://github.com/Pika-Software/gpm_pbit)
-
 ## 🧩 Other
 - [Docs](https://github.com/Pika-Software/pika-docs)
 - [Tools](https://github.com/Pika-Software/ptools)
@@ -84,4 +60,3 @@
 
 ## 🗑️ No Longer Supported
 - [gmsv_steamworks](https://github.com/Pika-Software/gmsv_steamworks)
-- [Console Utils](https://github.com/Pika-Software/gpm_console_utils)
