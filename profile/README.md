@@ -39,8 +39,6 @@
 - [Clear Base](https://github.com/Pika-Software/gmod_clear_base)
 
 ## 🗃️ gLua Modules
-- [fdebug](https://github.com/Pika-Software/plib_fdebug)
-- [CHTTP](https://github.com/Pika-Software/plib_chttp)
 - [HTTP](https://github.com/Pika-Software/plib_http)
 - [Request](https://github.com/Pika-Software/plib_request)
 - [Player Extensions](https://github.com/Pika-Software/plib_player_extensions)
