@@ -35,7 +35,6 @@
 - [Improved Player Ragdolls](https://github.com/Pika-Software/gmod_improved_player_ragdolls)
 - [Player Ragdolls on Disconnect](https://github.com/Pika-Software/gmod_player_ragdolls_on_disconnect)
 - [Translate](https://github.com/Pika-Software/plib_translate)
-- [TTS](https://github.com/Pika-Software/plib_tts)
 - [Clear Base](https://github.com/Pika-Software/gmod_clear_base)
 
 ## 🗃️ gLua Modules
