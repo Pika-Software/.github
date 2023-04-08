@@ -16,6 +16,7 @@
 
 ## 📦 Packages
 - [GLua Extensions](https://github.com/Pika-Software/glua_extensions)
+- [Math Extensions](https://github.com/Pika-Software/math_extensions)
 
 ## 🔩 Binnary Modules
 - [Network](https://github.com/Pika-Software/gmsv_network)
