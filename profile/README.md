@@ -25,8 +25,6 @@
 - [Hang2Kill](https://github.com/Pika-Software/gmsv_hang2kill)
 
 ## 🗃️ gLua Modules
-- [NCS Parser](https://github.com/Pika-Software/gmlm_ncs)
-- [Atmosphere API](https://github.com/Pika-Software/gmlm_atmosphere_api)
 - [fdebug](https://github.com/Pika-Software/plib_fdebug)
 - [CHTTP](https://github.com/Pika-Software/plib_chttp)
 - [HTTP](https://github.com/Pika-Software/plib_http)
