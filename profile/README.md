@@ -13,12 +13,17 @@
 - [GLua Package Manager](https://github.com/Pika-Software/glua_package_manager)
 - [Community Ban Lists - Core](https://github.com/Pika-Software/gmod_community_ban_lists)
 - [Community Ban Lists - Alium](https://github.com/Pika-Software/gmod_alium_bans)
+- [Developer Tools](https://github.com/Pika-Software/gmod_developer_tools)
+- [Automatic Workshop DL](https://github.com/Pika-Software/gpm_awdl)
+- [Text-to-Speech](https://github.com/Pika-Software/tts_package)
+- [Voice Chat](https://github.com/Pika-Software/voice_chat_package)
 
 ## 📦 Packages
 - [GLua Extensions](https://github.com/Pika-Software/math_extensions_package)
 - [Math Extensions](https://github.com/Pika-Software/math_extensions_package)
 - [SQL Tables](https://github.com/Pika-Software/sql_tables_package)
 - [Steam API](https://github.com/Pika-Software/steam_api_package)
+- [SoundLib](https://github.com/Pika-Software/soundlib_package)
 
 ## 🔩 Binnary Modules
 - [Network](https://github.com/Pika-Software/gmsv_network)
@@ -28,20 +33,18 @@
 - [Hang2Kill](https://github.com/Pika-Software/gmsv_hang2kill)
 
 ## ✨ Add-ons
-- [Automatic Workshop DL](https://github.com/Pika-Software/gpm_awdl)
-- [RE:Base](https://github.com/Pika-Software/gmod_rebase) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2804718813))
-- [gLua Developer Tools](https://github.com/Pika-Software/gmod_developer_tools)
-- [Random Patches](https://github.com/Pika-Software/gmod_random_patches) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2806290767))
-- [Realtime Player Updater](https://github.com/Pika-Software/gmod_realtime_player_updater) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2807143051))
 - [Endless Pizza Box (SCP-458)](https://github.com/Pika-Software/gmod_endless_pizza) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2638737055))
-- [First Person Death Cam](https://github.com/Pika-Software/plib_first_person_death)
-- [Improved Player Ragdolls](https://github.com/Pika-Software/gmod_improved_player_ragdolls)
 - [Player Ragdolls on Disconnect](https://github.com/Pika-Software/gmod_player_ragdolls_on_disconnect)
+- [First Person Death Cam](https://github.com/Pika-Software/plib_first_person_death)
 - [Translate](https://github.com/Pika-Software/plib_translate)
-- [Clear Base](https://github.com/Pika-Software/gmod_clear_base)
 
-## 🗃️ gLua Modules
-- [Request](https://github.com/Pika-Software/plib_request)
+## 📝 Garry's Mod fixes and improvements
+- [Realtime Player Updater](https://github.com/Pika-Software/gmod_realtime_player_updater) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2807143051))
+- [RE:Base](https://github.com/Pika-Software/gmod_rebase) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2804718813))
+- [Random Patches](https://github.com/Pika-Software/gmod_random_patches) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2806290767))
+- [Improved Player Ragdolls](https://github.com/Pika-Software/gmod_improved_player_ragdolls)
+
+## 🗃️ GLua Modules
 - [Player Extensions](https://github.com/Pika-Software/plib_player_extensions)
 - [Entity Position Kit](https://github.com/Pika-Software/plib_entity_positioning_kit)
 - [Web Material](https://github.com/Pika-Software/plib_web_material)
@@ -51,6 +54,7 @@
 - [Docs](https://github.com/Pika-Software/pika-docs)
 - [Tools](https://github.com/Pika-Software/ptools)
 - [Images](https://github.com/Pika-Software/pika-images)
+- [Clear Base](https://github.com/Pika-Software/gmod_clear_base)
 
 ## 🗑️ No Longer Supported
 - [GLua Package Manager: Legacy](https://github.com/Pika-Software/gpm)
