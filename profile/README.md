@@ -15,8 +15,8 @@
 - [Community Ban Lists - Alium](https://github.com/Pika-Software/gmod_alium_bans)
 
 ## 📦 Packages
-- [GLua Extensions](https://github.com/Pika-Software/glua_extensions)
-- [Math Extensions](https://github.com/Pika-Software/math_extensions)
+- [GLua Extensions](https://github.com/Pika-Software/math_extensions_package)
+- [Math Extensions](https://github.com/Pika-Software/math_extensions_package)
 - [Steam API](https://github.com/Pika-Software/steam_api_package)
 
 ## 🔩 Binnary Modules
