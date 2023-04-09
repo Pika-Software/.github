@@ -14,7 +14,7 @@
 - [Community Ban Lists - Core](https://github.com/Pika-Software/gmod_community_ban_lists)
 - [Community Ban Lists - Alium](https://github.com/Pika-Software/gmod_alium_bans)
 - [Developer Tools](https://github.com/Pika-Software/gmod_developer_tools)
-- [Automatic Workshop DL](https://github.com/Pika-Software/gpm_awdl)
+- [Automatic Workshop DL](https://github.com/Pika-Software/awdl_package)
 - [Text-to-Speech](https://github.com/Pika-Software/tts_package)
 - [Voice Chat](https://github.com/Pika-Software/voice_chat_package)
 
