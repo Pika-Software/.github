@@ -17,6 +17,7 @@
 ## 📦 Packages
 - [GLua Extensions](https://github.com/Pika-Software/glua_extensions)
 - [Math Extensions](https://github.com/Pika-Software/math_extensions)
+- [Steam API](https://github.com/Pika-Software/steam_api_package)
 
 ## 🔩 Binnary Modules
 - [Network](https://github.com/Pika-Software/gmsv_network)
