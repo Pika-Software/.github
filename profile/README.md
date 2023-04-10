@@ -25,6 +25,7 @@
 - [SQL Tables](https://github.com/Pika-Software/sql_tables_package)
 - [Steam API](https://github.com/Pika-Software/steam_api_package)
 - [SoundLib](https://github.com/Pika-Software/soundlib_package)
+- [Imgur](https://github.com/Pika-Software/imgur_package)
 
 ## 🔩 Binnary Modules
 - [Network](https://github.com/Pika-Software/gmsv_network)
