@@ -21,6 +21,7 @@
 ## 📦 Packages
 - [GLua Extensions](https://github.com/Pika-Software/math_extensions_package)
 - [Math Extensions](https://github.com/Pika-Software/math_extensions_package)
+- [HTTP Content](https://github.com/Pika-Software/http_content)
 - [SQL Tables](https://github.com/Pika-Software/sql_tables_package)
 - [Steam API](https://github.com/Pika-Software/steam_api_package)
 - [SoundLib](https://github.com/Pika-Software/soundlib_package)
