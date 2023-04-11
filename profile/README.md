@@ -41,7 +41,7 @@
 - [First Person Death Cam](https://github.com/Pika-Software/plib_first_person_death)
 - [Translate](https://github.com/Pika-Software/plib_translate)
 
-## 📝 Garry's Mod fixes and improvements
+## 📝 Fixes and improvements
 - [Realtime Player Updater](https://github.com/Pika-Software/gmod_realtime_player_updater) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2807143051))
 - [RE:Base](https://github.com/Pika-Software/gmod_rebase) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2804718813))
 - [Random Patches](https://github.com/Pika-Software/gmod_random_patches) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2806290767))
