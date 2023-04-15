@@ -23,9 +23,9 @@
 - [math-extensions](https://github.com/Pika-Software/math-extensions)
 - [chat-extensions](https://github.com/Pika-Software/chat-extensions)
 - [http-content](https://github.com/Pika-Software/http-content)
-- [SQL Tables](https://github.com/Pika-Software/sql_tables_package)
+- [sql-tables](https://github.com/Pika-Software/sql-tables)
 - [Steam API](https://github.com/Pika-Software/steam_api_package)
-- [SoundLib](https://github.com/Pika-Software/soundlib_package)
+- [audio-library](https://github.com/Pika-Software/audio-library)
 - [Imgur](https://github.com/Pika-Software/imgur_package)
 - [net-sync](https://github.com/Pika-Software/net-sync)
 
