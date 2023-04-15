@@ -22,11 +22,11 @@
 - [glua-extensions](https://github.com/Pika-Software/glua-extensions)
 - [math-extensions](https://github.com/Pika-Software/math-extensions)
 - [chat-extensions](https://github.com/Pika-Software/chat-extensions)
+- [audio-library](https://github.com/Pika-Software/audio-library)
 - [http-content](https://github.com/Pika-Software/http-content)
 - [sql-tables](https://github.com/Pika-Software/sql-tables)
-- [Steam API](https://github.com/Pika-Software/steam_api_package)
-- [audio-library](https://github.com/Pika-Software/audio-library)
-- [Imgur](https://github.com/Pika-Software/imgur_package)
+- [steam-api](https://github.com/Pika-Software/steam-api)
+- [imgur-api](https://github.com/Pika-Software/imgur-api)
 - [net-sync](https://github.com/Pika-Software/net-sync)
 
 ## 🔩 Binnary Modules
