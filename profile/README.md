@@ -15,8 +15,6 @@
 - [Community Ban Lists - Alium](https://github.com/Pika-Software/gmod_alium_bans)
 - [Developer Tools](https://github.com/Pika-Software/gmod_developer_tools)
 - [Automatic Workshop DL](https://github.com/Pika-Software/automatic-workshop-dl)
-- [Text-to-Speech](https://github.com/Pika-Software/tts_package)
-- [Voice Chat](https://github.com/Pika-Software/voice_chat_package)
 
 ## 📦 Packages
 - [glua-extensions](https://github.com/Pika-Software/glua-extensions)
@@ -47,6 +45,8 @@
 - [RE:Base](https://github.com/Pika-Software/gmod_rebase) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2804718813))
 - [Random Patches](https://github.com/Pika-Software/gmod_random_patches) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2806290767))
 - [Improved Player Ragdolls](https://github.com/Pika-Software/gmod_improved_player_ragdolls)
+- [Text-to-Speech](https://github.com/Pika-Software/tts_package)
+- [Voice Chat](https://github.com/Pika-Software/voice_chat_package)
 
 ## 🗃️ GLua Modules
 - [Player Extensions](https://github.com/Pika-Software/plib_player_extensions)
