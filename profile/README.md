@@ -14,19 +14,20 @@
 - [Community Ban Lists - Core](https://github.com/Pika-Software/gmod_community_ban_lists)
 - [Community Ban Lists - Alium](https://github.com/Pika-Software/gmod_alium_bans)
 - [Developer Tools](https://github.com/Pika-Software/gmod_developer_tools)
-- [Automatic Workshop DL](https://github.com/Pika-Software/awdl_package)
+- [Automatic Workshop DL](https://github.com/Pika-Software/automatic-workshop-dl)
 - [Text-to-Speech](https://github.com/Pika-Software/tts_package)
 - [Voice Chat](https://github.com/Pika-Software/voice_chat_package)
 
 ## 📦 Packages
-- [GLua Extensions](https://github.com/Pika-Software/math_extensions_package)
-- [Math Extensions](https://github.com/Pika-Software/math_extensions_package)
-- [Chat Extensions](https://github.com/Pika-Software/chat_extensions_package)
-- [HTTP Content](https://github.com/Pika-Software/http_content)
+- [glua-extensions](https://github.com/Pika-Software/glua-extensions)
+- [math-extensions](https://github.com/Pika-Software/math-extensions)
+- [chat-extensions](https://github.com/Pika-Software/chat-extensions)
+- [http-content](https://github.com/Pika-Software/http-content)
 - [SQL Tables](https://github.com/Pika-Software/sql_tables_package)
 - [Steam API](https://github.com/Pika-Software/steam_api_package)
 - [SoundLib](https://github.com/Pika-Software/soundlib_package)
 - [Imgur](https://github.com/Pika-Software/imgur_package)
+- [net-sync](https://github.com/Pika-Software/net-sync)
 
 ## 🔩 Binnary Modules
 - [Network](https://github.com/Pika-Software/gmsv_network)
