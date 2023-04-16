@@ -26,6 +26,7 @@
 - [steam-api](https://github.com/Pika-Software/steam-api)
 - [imgur-api](https://github.com/Pika-Software/imgur-api)
 - [net-sync](https://github.com/Pika-Software/net-sync)
+- [custom-cursor](https://github.com/Pika-Software/custom-cursor)
 
 ## 🔩 Binnary Modules
 - [Network](https://github.com/Pika-Software/gmsv_network)
@@ -37,6 +38,9 @@
 ## ✨ Add-ons
 - [Endless Pizza Box (SCP-458)](https://github.com/Pika-Software/gmod_endless_pizza) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2638737055))
 - [Player Ragdolls on Disconnect](https://github.com/Pika-Software/gmod_player_ragdolls_on_disconnect)
+- [video-recorder](https://github.com/Pika-Software/video-recorder)
+- [text-to-speech](https://github.com/Pika-Software/text-to-speech)
+- [voice-chat](https://github.com/Pika-Software/voice-chat)
 - [First Person Death Cam](https://github.com/Pika-Software/plib_first_person_death)
 - [Translate](https://github.com/Pika-Software/plib_translate)
 
@@ -45,8 +49,6 @@
 - [RE:Base](https://github.com/Pika-Software/gmod_rebase) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2804718813))
 - [Random Patches](https://github.com/Pika-Software/gmod_random_patches) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2806290767))
 - [Improved Player Ragdolls](https://github.com/Pika-Software/gmod_improved_player_ragdolls)
-- [text-to-speech](https://github.com/Pika-Software/text-to-speech)
-- [voice-chat](https://github.com/Pika-Software/voice-chat)
 
 ## 🗃️ GLua Modules
 - [Player Extensions](https://github.com/Pika-Software/plib_player_extensions)
