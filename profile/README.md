@@ -47,12 +47,6 @@
 - [Random Patches](https://github.com/Pika-Software/gmod_random_patches) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2806290767))
 - [Improved Player Ragdolls](https://github.com/Pika-Software/gmod_improved_player_ragdolls)
 
-## 🗃️ GLua Modules
-- [Player Extensions](https://github.com/Pika-Software/plib_player_extensions)
-- [Entity Position Kit](https://github.com/Pika-Software/plib_entity_positioning_kit)
-- [Web Material](https://github.com/Pika-Software/plib_web_material)
-- [Filesystem](https://github.com/Pika-Software/plib_filesystem)
-
 ## 🧩 Other
 - [Docs](https://github.com/Pika-Software/pika-docs)
 - [Tools](https://github.com/Pika-Software/ptools)
