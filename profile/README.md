@@ -27,6 +27,7 @@
 - [imgur-api](https://github.com/Pika-Software/imgur-api)
 - [net-sync](https://github.com/Pika-Software/net-sync)
 - [custom-cursor](https://github.com/Pika-Software/custom-cursor)
+- [units](https://github.com/Pika-Software/units)
 
 ## 🔩 Binnary Modules
 - [Network](https://github.com/Pika-Software/gmsv_network)
