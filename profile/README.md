@@ -37,12 +37,9 @@
 
 ## ✨ Add-ons
 - [Endless Pizza Box (SCP-458)](https://github.com/Pika-Software/gmod_endless_pizza) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2638737055))
-- [Player Ragdolls on Disconnect](https://github.com/Pika-Software/gmod_player_ragdolls_on_disconnect)
 - [video-recorder](https://github.com/Pika-Software/video-recorder)
 - [text-to-speech](https://github.com/Pika-Software/text-to-speech)
 - [voice-chat](https://github.com/Pika-Software/voice-chat)
-- [First Person Death Cam](https://github.com/Pika-Software/plib_first_person_death)
-- [Translate](https://github.com/Pika-Software/plib_translate)
 
 ## 📝 Fixes and improvements
 - [Realtime Player Updater](https://github.com/Pika-Software/gmod_realtime_player_updater) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2807143051))
