@@ -10,11 +10,11 @@
 </p>
 
 ## 🔧 Server Systems
-- [GLua Package Manager](https://github.com/Pika-Software/glua_package_manager) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2959469002))
+- [glua-package-manager](https://github.com/Pika-Software/glua-package-manager) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2959469002))
+- [automatic-workshop-dl](https://github.com/Pika-Software/automatic-workshop-dl)
 - [Community Ban Lists - Core](https://github.com/Pika-Software/gmod_community_ban_lists)
 - [Community Ban Lists - Alium](https://github.com/Pika-Software/gmod_alium_bans)
 - [Developer Tools](https://github.com/Pika-Software/gmod_developer_tools)
-- [Automatic Workshop DL](https://github.com/Pika-Software/automatic-workshop-dl)
 
 ## 📦 Packages
 - [glua-extensions](https://github.com/Pika-Software/glua-extensions)
