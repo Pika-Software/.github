@@ -22,10 +22,10 @@
 - [chat-extensions](https://github.com/Pika-Software/chat-extensions)
 - [audio-library](https://github.com/Pika-Software/audio-library)
 - [http-content](https://github.com/Pika-Software/http-content)
+- [net-messager](https://github.com/Pika-Software/net-messager)
 - [sql-tables](https://github.com/Pika-Software/sql-tables)
 - [steam-api](https://github.com/Pika-Software/steam-api)
 - [imgur-api](https://github.com/Pika-Software/imgur-api)
-- [net-sync](https://github.com/Pika-Software/net-sync)
 - [custom-cursor](https://github.com/Pika-Software/custom-cursor)
 - [units](https://github.com/Pika-Software/units)
 
