@@ -20,14 +20,16 @@
 - [glua-extensions](https://github.com/Pika-Software/glua-extensions)
 - [math-extensions](https://github.com/Pika-Software/math-extensions)
 - [chat-extensions](https://github.com/Pika-Software/chat-extensions)
+- [player-extensions](https://github.com/Pika-Software/player-extensions)
+- [custom-cursor](https://github.com/Pika-Software/custom-cursor)
 - [audio-library](https://github.com/Pika-Software/audio-library)
 - [http-content](https://github.com/Pika-Software/http-content)
 - [net-messager](https://github.com/Pika-Software/net-messager)
 - [sql-tables](https://github.com/Pika-Software/sql-tables)
 - [steam-api](https://github.com/Pika-Software/steam-api)
 - [imgur-api](https://github.com/Pika-Software/imgur-api)
-- [custom-cursor](https://github.com/Pika-Software/custom-cursor)
 - [units](https://github.com/Pika-Software/units)
+- [fonts](https://github.com/Pika-Software/fonts)
 
 ## 🔩 Binnary Modules
 - [Network](https://github.com/Pika-Software/gmsv_network)
