@@ -11,7 +11,6 @@
 
 ## 🔧 Server Systems
 - [glua-package-manager](https://github.com/Pika-Software/glua-package-manager) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2959469002))
-- [automatic-workshop-dl](https://github.com/Pika-Software/automatic-workshop-dl)
 - [Community Ban Lists - Core](https://github.com/Pika-Software/gmod_community_ban_lists)
 - [Community Ban Lists - Alium](https://github.com/Pika-Software/gmod_alium_bans)
 
@@ -40,6 +39,7 @@
 
 ## ✨ Add-ons
 - [Endless Pizza Box (SCP-458)](https://github.com/Pika-Software/gmod_endless_pizza) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2638737055))
+- [automatic-workshop-dl](https://github.com/Pika-Software/automatic-workshop-dl)
 - [Developer Tools](https://github.com/Pika-Software/gmod_developer_tools)
 - [video-recorder](https://github.com/Pika-Software/video-recorder)
 - [tool-blacklist](https://github.com/Pika-Software/tool-blacklist)
