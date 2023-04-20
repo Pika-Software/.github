@@ -10,9 +10,8 @@
 </p>
 
 ## 🔧 Server Systems
-- [glua-package-manager](https://github.com/Pika-Software/glua-package-manager) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2959469002))
 - [Community Ban Lists - Core](https://github.com/Pika-Software/gmod_community_ban_lists)
-- [Community Ban Lists - Alium](https://github.com/Pika-Software/gmod_alium_bans)
+- [glua-package-manager](https://github.com/Pika-Software/glua-package-manager) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2959469002))
 
 ## 📦 Packages
 - [glua-extensions](https://github.com/Pika-Software/glua-extensions)
@@ -52,6 +51,11 @@
 - [Random Patches](https://github.com/Pika-Software/gmod_random_patches) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2806290767))
 - [Improved Player Ragdolls](https://github.com/Pika-Software/gmod_improved_player_ragdolls)
 - [first-person-death](https://github.com/Pika-Software/first-person-death)
+
+## ⛔ Ban Lists
+- [Community Ban Lists - Alium](https://github.com/Pika-Software/gmod_alium_bans)
+- [Community Ban Lists - PrikolMen](https://github.com/PrikolMen/gmod_blacklist)
+- [bombass_cheaters_banlist](https://github.com/Bombass-Project/bombass_cheaters_banlist)
 
 ## 🧩 Other
 - [Images](https://github.com/Pika-Software/pika-images)
