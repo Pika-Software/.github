@@ -14,7 +14,6 @@
 - [automatic-workshop-dl](https://github.com/Pika-Software/automatic-workshop-dl)
 - [Community Ban Lists - Core](https://github.com/Pika-Software/gmod_community_ban_lists)
 - [Community Ban Lists - Alium](https://github.com/Pika-Software/gmod_alium_bans)
-- [Developer Tools](https://github.com/Pika-Software/gmod_developer_tools)
 
 ## 📦 Packages
 - [glua-extensions](https://github.com/Pika-Software/glua-extensions)
@@ -28,6 +27,7 @@
 - [sql-tables](https://github.com/Pika-Software/sql-tables)
 - [steam-api](https://github.com/Pika-Software/steam-api)
 - [imgur-api](https://github.com/Pika-Software/imgur-api)
+- [nw3-vars](https://github.com/Pika-Software/nw3-vars)
 - [units](https://github.com/Pika-Software/units)
 - [fonts](https://github.com/Pika-Software/fonts)
 
@@ -40,7 +40,9 @@
 
 ## ✨ Add-ons
 - [Endless Pizza Box (SCP-458)](https://github.com/Pika-Software/gmod_endless_pizza) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2638737055))
+- [Developer Tools](https://github.com/Pika-Software/gmod_developer_tools)
 - [video-recorder](https://github.com/Pika-Software/video-recorder)
+- [tool-blacklist](https://github.com/Pika-Software/tool-blacklist)
 - [text-to-speech](https://github.com/Pika-Software/text-to-speech)
 - [voice-chat](https://github.com/Pika-Software/voice-chat)
 
@@ -49,12 +51,12 @@
 - [RE:Base](https://github.com/Pika-Software/gmod_rebase) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2804718813))
 - [Random Patches](https://github.com/Pika-Software/gmod_random_patches) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2806290767))
 - [Improved Player Ragdolls](https://github.com/Pika-Software/gmod_improved_player_ragdolls)
+- [first-person-death](https://github.com/Pika-Software/first-person-death)
 
 ## 🧩 Other
+- [Images](https://github.com/Pika-Software/pika-images)
 - [Docs](https://github.com/Pika-Software/pika-docs)
 - [Tools](https://github.com/Pika-Software/ptools)
-- [Images](https://github.com/Pika-Software/pika-images)
-- [Clear Base](https://github.com/Pika-Software/gmod_clear_base)
 
 ## 🗑️ No Longer Supported
 - [GLua Package Manager: Legacy](https://github.com/Pika-Software/gpm)
