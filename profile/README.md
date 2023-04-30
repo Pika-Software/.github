@@ -13,6 +13,13 @@
 - [Community Ban Lists - Core](https://github.com/Pika-Software/gmod_community_ban_lists)
 - [glua-package-manager](https://github.com/Pika-Software/glua-package-manager) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2959469002))
 
+## 🔩 Binnary Modules
+- [gm_asyncio](https://github.com/Pika-Software/gm_asyncio)
+- [gmsv_network](https://github.com/Pika-Software/gmsv_network)
+- [gm_bit32](https://github.com/Pika-Software/gm_bit32)
+- [gmsv_myhttp](https://github.com/Pika-Software/gmsv_myhttp)
+- [gmsv_hang2kill](https://github.com/Pika-Software/gmsv_hang2kill)
+
 ## 📦 Packages
 - [glua-extensions](https://github.com/Pika-Software/glua-extensions)
 - [math-extensions](https://github.com/Pika-Software/math-extensions)
@@ -28,13 +35,6 @@
 - [nw3-vars](https://github.com/Pika-Software/nw3-vars)
 - [units](https://github.com/Pika-Software/units)
 - [fonts](https://github.com/Pika-Software/fonts)
-
-## 🔩 Binnary Modules
-- [gm_asyncio](https://github.com/Pika-Software/gm_asyncio)
-- [gmsv_network](https://github.com/Pika-Software/gmsv_network)
-- [gm_bit32](https://github.com/Pika-Software/gm_bit32)
-- [gmsv_myhttp](https://github.com/Pika-Software/gmsv_myhttp)
-- [gmsv_hang2kill](https://github.com/Pika-Software/gmsv_hang2kill)
 
 ## ✨ Add-ons
 - [Endless Pizza Box (SCP-458)](https://github.com/Pika-Software/gmod_endless_pizza) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2638737055))
