@@ -30,11 +30,11 @@
 - [fonts](https://github.com/Pika-Software/fonts)
 
 ## 🔩 Binnary Modules
-- [Network](https://github.com/Pika-Software/gmsv_network)
-- [Bit32](https://github.com/Pika-Software/gm_bit32)
-- [MyHTTP](https://github.com/Pika-Software/gmsv_myhttp)
-- [MongoDB](https://github.com/Pika-Software/gmsv_mongodb)
-- [Hang2Kill](https://github.com/Pika-Software/gmsv_hang2kill)
+- [gm_asyncio](https://github.com/Pika-Software/gm_asyncio)
+- [gmsv_network](https://github.com/Pika-Software/gmsv_network)
+- [gm_bit32](https://github.com/Pika-Software/gm_bit32)
+- [gmsv_myhttp](https://github.com/Pika-Software/gmsv_myhttp)
+- [gmsv_hang2kill](https://github.com/Pika-Software/gmsv_hang2kill)
 
 ## ✨ Add-ons
 - [Endless Pizza Box (SCP-458)](https://github.com/Pika-Software/gmod_endless_pizza) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2638737055))
@@ -65,4 +65,5 @@
 ## 🗑️ No Longer Supported
 - [GLua Package Manager: Legacy](https://github.com/Pika-Software/gpm)
 - [gmsv_steamworks](https://github.com/Pika-Software/gmsv_steamworks)
+- [gmsv_mongodb](https://github.com/Pika-Software/gmsv_mongodb)
 - [PLib](https://github.com/Pika-Software/plib)
