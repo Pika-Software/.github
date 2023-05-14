@@ -10,8 +10,8 @@
 </p>
 
 ## 🔧 Server Systems
-- [Community Ban Lists - Core](https://github.com/Pika-Software/gmod_community_ban_lists)
 - [glua-package-manager](https://github.com/Pika-Software/glua-package-manager) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2959469002))
+- [Community Ban Lists - Core](https://github.com/Pika-Software/gmod_community_ban_lists)
 
 ## 🔩 Binnary Modules
 - [gm_asyncio](https://github.com/Pika-Software/gm_asyncio)
