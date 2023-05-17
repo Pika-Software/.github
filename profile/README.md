@@ -14,6 +14,7 @@
 - [Community Ban Lists - Core](https://github.com/Pika-Software/gmod_community_ban_lists)
 
 ## 🔩 Binnary Modules
+- [gm_moonloader](https://github.com/Pika-Software/gm_moonloader)
 - [gm_asyncio](https://github.com/Pika-Software/gm_asyncio)
 - [gmsv_network](https://github.com/Pika-Software/gmsv_network)
 - [gm_bit32](https://github.com/Pika-Software/gm_bit32)
