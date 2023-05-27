@@ -46,6 +46,7 @@
 - [math-extensions](https://github.com/Pika-Software/math-extensions)
 - [chat-extensions](https://github.com/Pika-Software/chat-extensions)
 - [player-extensions](https://github.com/Pika-Software/player-extensions)
+- [flight-framework](https://github.com/Pika-Software/flight-framework)
 - [custom-cursor](https://github.com/Pika-Software/custom-cursor)
 - [audio-library](https://github.com/Pika-Software/audio-library)
 - [http-content](https://github.com/Pika-Software/http-content)
