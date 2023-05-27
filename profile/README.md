@@ -20,6 +20,7 @@
 ## ✨ Add-ons/Improvements/Optimization
 - [glua-package-manager](https://github.com/Pika-Software/glua-package-manager) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2959469002))
 - [Random Patches](https://github.com/Pika-Software/gmod_random_patches) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2806290767))
+- [Realtime Player Updater](https://github.com/Pika-Software/gmod_realtime_player_updater) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2807143051))
 - [rebase](https://github.com/Pika-Software/rebase) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2804718813))
 - [automatic-workshop-dl](https://github.com/Pika-Software/automatic-workshop-dl)
 - [ipr-base](https://github.com/Pika-Software/ipr-base)
@@ -37,7 +38,7 @@
 - [markers](https://github.com/Pika-Software/markers)
 - [voice-chat](https://github.com/Pika-Software/voice-chat)
 - [tool-blacklist](https://github.com/Pika-Software/tool-blacklist)
-- [Realtime Player Updater](https://github.com/Pika-Software/gmod_realtime_player_updater) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2807143051))
+- [player-color-stool](https://github.com/Pika-Software/player-color-stool)
 - [Endless Pizza Box (SCP-458)](https://github.com/Pika-Software/gmod_endless_pizza) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2638737055))
 
 ## 📦 Packages/Libraries/Extensions
