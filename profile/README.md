@@ -9,10 +9,6 @@
 <a href="https://discord.gg/Gzak99XGvv"><img align="center" src="https://img.shields.io/badge/Discord-%237289da?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
-## 🔧 Server Systems
-- [glua-package-manager](https://github.com/Pika-Software/glua-package-manager) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2959469002))
-- [Community Ban Lists - Core](https://github.com/Pika-Software/gmod_community_ban_lists)
-
 ## 🔩 Binnary Modules
 - [gm_moonloader](https://github.com/Pika-Software/gm_moonloader)
 - [gm_asyncio](https://github.com/Pika-Software/gm_asyncio)
@@ -21,7 +17,30 @@
 - [gmsv_myhttp](https://github.com/Pika-Software/gmsv_myhttp)
 - [gmsv_hang2kill](https://github.com/Pika-Software/gmsv_hang2kill)
 
-## 📦 Packages
+## ✨ Add-ons/Improvements/Optimization
+- [glua-package-manager](https://github.com/Pika-Software/glua-package-manager) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2959469002))
+- [Random Patches](https://github.com/Pika-Software/gmod_random_patches) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2806290767))
+- [rebase](https://github.com/Pika-Software/rebase) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2804718813))
+- [automatic-workshop-dl](https://github.com/Pika-Software/automatic-workshop-dl)
+- [ipr-base](https://github.com/Pika-Software/ipr-base)
+- [ipr-disconnect](https://github.com/Pika-Software/ipr-disconnect)
+- [ipr-ammo-and-weapons](https://github.com/Pika-Software/ipr-ammo-and-weapons)
+- [ipr-arcade-impulse](https://github.com/Pika-Software/ipr-arcade-impulse)
+- [developer-tools](https://github.com/Pika-Software/developer-tools)
+- [video-recorder](https://github.com/Pika-Software/video-recorder)
+- [tool-blacklist](https://github.com/Pika-Software/tool-blacklist)
+- [text-to-speech](https://github.com/Pika-Software/text-to-speech)
+- [dynamic-player](https://github.com/Pika-Software/dynamic-player)
+- [dynamic-player-health](https://github.com/Pika-Software/dynamic-player-health)
+- [first-person-death](https://github.com/Pika-Software/first-person-death)
+- [animated-mouth](https://github.com/Pika-Software/animated-mouth)
+- [markers](https://github.com/Pika-Software/markers)
+- [voice-chat](https://github.com/Pika-Software/voice-chat)
+- [tool-blacklist](https://github.com/Pika-Software/tool-blacklist)
+- [Realtime Player Updater](https://github.com/Pika-Software/gmod_realtime_player_updater) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2807143051))
+- [Endless Pizza Box (SCP-458)](https://github.com/Pika-Software/gmod_endless_pizza) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2638737055))
+
+## 📦 Packages/Libraries/Extensions
 - [glua-extensions](https://github.com/Pika-Software/glua-extensions)
 - [math-extensions](https://github.com/Pika-Software/math-extensions)
 - [chat-extensions](https://github.com/Pika-Software/chat-extensions)
@@ -34,25 +53,13 @@
 - [steam-api](https://github.com/Pika-Software/steam-api)
 - [imgur-api](https://github.com/Pika-Software/imgur-api)
 - [nw3-vars](https://github.com/Pika-Software/nw3-vars)
+- [config](https://github.com/Pika-Software/config)
 - [units](https://github.com/Pika-Software/units)
 - [fonts](https://github.com/Pika-Software/fonts)
-
-## ✨ Add-ons
-- [Endless Pizza Box (SCP-458)](https://github.com/Pika-Software/gmod_endless_pizza) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2638737055))
-- [automatic-workshop-dl](https://github.com/Pika-Software/automatic-workshop-dl)
-- [Developer Tools](https://github.com/Pika-Software/gmod_developer_tools)
-- [video-recorder](https://github.com/Pika-Software/video-recorder)
-- [tool-blacklist](https://github.com/Pika-Software/tool-blacklist)
-- [text-to-speech](https://github.com/Pika-Software/text-to-speech)
-- [voice-chat](https://github.com/Pika-Software/voice-chat)
-
-## 📝 Fixes and improvements
-- [Realtime Player Updater](https://github.com/Pika-Software/gmod_realtime_player_updater) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2807143051))
-- [RE:Base](https://github.com/Pika-Software/gmod_rebase) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2804718813))
-- [Random Patches](https://github.com/Pika-Software/gmod_random_patches) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2806290767))
-- [first-person-death](https://github.com/Pika-Software/first-person-death)
+- [glua-types-encoder](https://github.com/Pika-Software/glua-types-encoder)
 
 ## ⛔ Ban Lists
+- [Community Ban Lists - Core](https://github.com/Pika-Software/gmod_community_ban_lists)
 - [Community Ban Lists - Alium](https://github.com/Pika-Software/gmod_alium_bans)
 - [Community Ban Lists - PrikolMen](https://github.com/PrikolMen/gmod_blacklist)
 - [bombass_cheaters_banlist](https://github.com/Bombass-Project/bombass_cheaters_banlist)
