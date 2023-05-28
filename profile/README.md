@@ -43,6 +43,7 @@
 
 ## 📦 Packages/Libraries/Extensions
 - [glua-extensions](https://github.com/Pika-Software/glua-extensions)
+- [glua-encoder](https://github.com/Pika-Software/glua-encoder)
 - [math-extensions](https://github.com/Pika-Software/math-extensions)
 - [chat-extensions](https://github.com/Pika-Software/chat-extensions)
 - [player-extensions](https://github.com/Pika-Software/player-extensions)
@@ -58,7 +59,6 @@
 - [config](https://github.com/Pika-Software/config)
 - [units](https://github.com/Pika-Software/units)
 - [fonts](https://github.com/Pika-Software/fonts)
-- [glua-types-encoder](https://github.com/Pika-Software/glua-types-encoder)
 
 ## ⛔ Ban Lists
 - [Community Ban Lists - Core](https://github.com/Pika-Software/gmod_community_ban_lists)
