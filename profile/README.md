@@ -50,6 +50,7 @@
 - [chat-extensions](https://github.com/Pika-Software/chat-extensions)
 - [player-extensions](https://github.com/Pika-Software/player-extensions)
 - [flight-framework](https://github.com/Pika-Software/flight-framework)
+- [atmosphere-link](https://github.com/Pika-Software/atmosphere-link)
 - [custom-cursor](https://github.com/Pika-Software/custom-cursor)
 - [audio-library](https://github.com/Pika-Software/audio-library)
 - [http-content](https://github.com/Pika-Software/http-content)
