@@ -62,6 +62,7 @@
 - [config](https://github.com/Pika-Software/config)
 - [units](https://github.com/Pika-Software/units)
 - [fonts](https://github.com/Pika-Software/fonts)
+- [pbit](https://github.com/Pika-Software/pbit)
 
 ## ⛔ Ban Lists
 - [Community Ban Lists - Core](https://github.com/Pika-Software/gmod_community_ban_lists)
