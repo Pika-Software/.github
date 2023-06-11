@@ -35,7 +35,7 @@
 - [tool-blacklist](https://github.com/Pika-Software/tool-blacklist)
 - [text-to-speech](https://github.com/Pika-Software/text-to-speech)
 - [dynamic-player](https://github.com/Pika-Software/dynamic-player)
-- [dynamic-player-health](https://github.com/Pika-Software/dynamic-player-health)
+- [dynamic-player-additions](https://github.com/Pika-Software/dynamic-player-additions)
 - [first-person-death](https://github.com/Pika-Software/first-person-death)
 - [animated-mouth](https://github.com/Pika-Software/animated-mouth)
 - [markers](https://github.com/Pika-Software/markers)
