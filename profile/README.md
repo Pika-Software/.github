@@ -14,6 +14,7 @@
 ## 🔩 Binnary Modules
 - [gm_moonloader](https://github.com/Pika-Software/gm_moonloader)
 - [gm_asyncio](https://github.com/Pika-Software/gm_asyncio)
+- [gm_efsw](https://github.com/Pika-Software/gm_efsw)
 - [gmsv_network](https://github.com/Pika-Software/gmsv_network)
 - [gm_bit32](https://github.com/Pika-Software/gm_bit32)
 - [gmsv_myhttp](https://github.com/Pika-Software/gmsv_myhttp)
