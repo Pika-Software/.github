@@ -2,8 +2,8 @@
 
 #### A non-profit organization engaged in the development of computer games and modifications for them. In particular, the development and launch of Garry's Mod game servers. We have been working since 2018, cooperating with Garry's Mod communities. We have good experience in administering [Linux](https://ru.wikipedia.org/wiki/Linux) systems ([Debian](https://www.debian.org/index.ru.html), [CentOS](https://www.centos.org/), [Ubuntu](https://ubuntu.com/)). Among other things, we develop web applications on [NodeJS](https://nodejs.org/), [PHP](https://www.php.net/) and [Rust](https://www.rust-lang.org/).
 
+<p align="right"><a href="https://open.spotify.com/track/2B15LmC8Pp8IjVsYnt4dvE?si=0d8f632743724a9c">Once Again</a></p>
 <p align="center">If you can't open some repositories in this list, you probably don't have enough access, join in our Discord server to get more information.</p>
-
 <h1 align="center">🔗 Social Links</h1>
 
 <p align="center">
@@ -13,16 +13,23 @@
 
 ## 🔩 Binnary Modules
 - [gm_moonloader](https://github.com/Pika-Software/gm_moonloader)
+- [gm_rant](https://github.com/Pika-Software/gm_rant)
+- [gm_pgsqloo](https://github.com/Pika-Software/gm_pgsqloo)
 - [gm_asyncio](https://github.com/Pika-Software/gm_asyncio)
 - [gm_efsw](https://github.com/Pika-Software/gm_efsw)
 - [gmsv_network](https://github.com/Pika-Software/gmsv_network)
 - [gm_bit32](https://github.com/Pika-Software/gm_bit32)
 - [gmsv_myhttp](https://github.com/Pika-Software/gmsv_myhttp)
 - [gmsv_hang2kill](https://github.com/Pika-Software/gmsv_hang2kill)
+- [gmsv_securequery](https://github.com/Pika-Software/gmsv_securequery)
+- [gmsv_voicescrambler](https://github.com/Pika-Software/gmsv_voicescrambler)
+- [gmsv_cconcommand](https://github.com/Pika-Software/gmsv_cconcommand)
+- [gmsv_filesystem](https://github.com/Pika-Software/gmsv_filesystem)
+- [gmsv_fastdl](https://github.com/Pika-Software/gmsv_fastdl)
 
 ## ✨ Add-ons/Improvements/Optimization
 - [glua-package-manager](https://github.com/Pika-Software/glua-package-manager) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2959469002))
-- [Random Patches](https://github.com/Pika-Software/gmod_random_patches) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2806290767))
+- [random-patches](https://github.com/Pika-Software/gmod_random_patches) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2806290767))
 - [Realtime Player Updater](https://github.com/Pika-Software/gmod_realtime_player_updater) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2807143051))
 - [rebase](https://github.com/Pika-Software/rebase) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2804718813))
 - [automatic-workshop-dl](https://github.com/Pika-Software/automatic-workshop-dl)
@@ -36,6 +43,7 @@
 - [text-to-speech](https://github.com/Pika-Software/text-to-speech)
 - [dynamic-player](https://github.com/Pika-Software/dynamic-player)
 - [dynamic-player-additions](https://github.com/Pika-Software/dynamic-player-additions)
+- [dynamic-player-flight](https://github.com/Pika-Software/dynamic-player-flight)
 - [first-person-death](https://github.com/Pika-Software/first-person-death)
 - [animated-mouth](https://github.com/Pika-Software/animated-mouth)
 - [markers](https://github.com/Pika-Software/markers)
@@ -45,16 +53,16 @@
 - [Endless Pizza Box (SCP-458)](https://github.com/Pika-Software/gmod_endless_pizza) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2638737055))
 
 ## 📦 Packages/Libraries/Extensions
-- [glua-extensions](https://github.com/Pika-Software/glua-extensions)
 - [glua-encoder](https://github.com/Pika-Software/glua-encoder)
+- [glua-extensions](https://github.com/Pika-Software/glua-extensions)
 - [math-extensions](https://github.com/Pika-Software/math-extensions)
+- [http-extensions](https://github.com/Pika-Software/http-extensions)
 - [chat-extensions](https://github.com/Pika-Software/chat-extensions)
 - [player-extensions](https://github.com/Pika-Software/player-extensions)
 - [flight-framework](https://github.com/Pika-Software/flight-framework)
 - [atmosphere-link](https://github.com/Pika-Software/atmosphere-link)
 - [custom-cursor](https://github.com/Pika-Software/custom-cursor)
 - [audio-library](https://github.com/Pika-Software/audio-library)
-- [http-content](https://github.com/Pika-Software/http-content)
 - [net-messager](https://github.com/Pika-Software/net-messager)
 - [sql-tables](https://github.com/Pika-Software/sql-tables)
 - [steam-api](https://github.com/Pika-Software/steam-api)
