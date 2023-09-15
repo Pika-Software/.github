@@ -65,6 +65,7 @@
 - [audio-library](https://github.com/Pika-Software/audio-library)
 - [net-messager](https://github.com/Pika-Software/net-messager)
 - [sql-tables](https://github.com/Pika-Software/sql-tables)
+- [workshop-tools](https://github.com/Pika-Software/workshop-tools)
 - [steam-api](https://github.com/Pika-Software/steam-api)
 - [imgur-api](https://github.com/Pika-Software/imgur-api)
 - [nw3-vars](https://github.com/Pika-Software/nw3-vars)
