@@ -82,6 +82,7 @@
 
 ## 🧩 Other
 - [Images](https://github.com/Pika-Software/pika-images)
+- [Icons](https://github.com/Pika-Software/Icons)
 - [Docs](https://github.com/Pika-Software/pika-docs)
 - [Tools](https://github.com/Pika-Software/ptools)
 
