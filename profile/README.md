@@ -29,7 +29,7 @@ A non-profit organization engaged in the development of computer games and modif
 ## ✨ Add-ons/Improvements/Optimization
 - [glua-package-manager](https://github.com/Pika-Software/glua-package-manager) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2959469002))
 - [random-patches](https://github.com/Pika-Software/gmod_random_patches) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2806290767))
-- [Realtime Player Updater](https://github.com/Pika-Software/gmod_realtime_player_updater) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2807143051))
+- [realtime-player-updater](https://github.com/Pika-Software/realtime-player-updater) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2807143051))
 - [rebase](https://github.com/Pika-Software/rebase) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2804718813))
 - [automatic-workshop-dl](https://github.com/Pika-Software/automatic-workshop-dl)
 - [ipr-base](https://github.com/Pika-Software/ipr-base)
