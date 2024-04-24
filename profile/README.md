@@ -30,48 +30,12 @@ A non-profit organization engaged in the development of computer games and modif
 - [glua-package-manager](https://github.com/Pika-Software/glua-package-manager) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2959469002))
 - [random-patches](https://github.com/Pika-Software/gmod_random_patches) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2806290767))
 - [realtime-player-updater](https://github.com/Pika-Software/realtime-player-updater) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2807143051))
-- [rebase](https://github.com/Pika-Software/rebase) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2804718813))
 - [automatic-workshop-dl](https://github.com/Pika-Software/automatic-workshop-dl)
-- [ipr-base](https://github.com/Pika-Software/ipr-base)
-- [ipr-disconnect](https://github.com/Pika-Software/ipr-disconnect)
-- [ipr-ammo-and-weapons](https://github.com/Pika-Software/ipr-ammo-and-weapons)
-- [ipr-arcade-impulse](https://github.com/Pika-Software/ipr-arcade-impulse)
-- [developer-tools](https://github.com/Pika-Software/developer-tools)
-- [video-recorder](https://github.com/Pika-Software/video-recorder)
-- [tool-blacklist](https://github.com/Pika-Software/tool-blacklist)
-- [text-to-speech](https://github.com/Pika-Software/text-to-speech)
-- [dynamic-player](https://github.com/Pika-Software/dynamic-player)
-- [dynamic-player-additions](https://github.com/Pika-Software/dynamic-player-additions)
-- [dynamic-player-flight](https://github.com/Pika-Software/dynamic-player-flight)
-- [first-person-death](https://github.com/Pika-Software/first-person-death)
-- [animated-mouth](https://github.com/Pika-Software/animated-mouth)
-- [markers](https://github.com/Pika-Software/markers)
-- [voice-chat](https://github.com/Pika-Software/voice-chat)
-- [tool-blacklist](https://github.com/Pika-Software/tool-blacklist)
-- [player-color-stool](https://github.com/Pika-Software/player-color-stool)
 - [Endless Pizza Box (SCP-458)](https://github.com/Pika-Software/gmod_endless_pizza) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2638737055))
+**Some repositories have been hidden and are not recommended for use until they become updated.**
 
 ## 📦 Packages/Libraries/Extensions
-- [glua-encoder](https://github.com/Pika-Software/glua-encoder)
-- [glua-extensions](https://github.com/Pika-Software/glua-extensions)
-- [math-extensions](https://github.com/Pika-Software/math-extensions)
-- [http-extensions](https://github.com/Pika-Software/http-extensions)
-- [chat-extensions](https://github.com/Pika-Software/chat-extensions)
-- [player-extensions](https://github.com/Pika-Software/player-extensions)
-- [flight-framework](https://github.com/Pika-Software/flight-framework)
-- [atmosphere-link](https://github.com/Pika-Software/atmosphere-link)
-- [custom-cursor](https://github.com/Pika-Software/custom-cursor)
-- [audio-library](https://github.com/Pika-Software/audio-library)
-- [net-messager](https://github.com/Pika-Software/net-messager)
-- [sql-tables](https://github.com/Pika-Software/sql-tables)
-- [workshop-tools](https://github.com/Pika-Software/workshop-tools)
-- [steam-api](https://github.com/Pika-Software/steam-api)
-- [imgur-api](https://github.com/Pika-Software/imgur-api)
-- [nw3-vars](https://github.com/Pika-Software/nw3-vars)
-- [config](https://github.com/Pika-Software/config)
-- [units](https://github.com/Pika-Software/units)
-- [fonts](https://github.com/Pika-Software/fonts)
-- [pbit](https://github.com/Pika-Software/pbit)
+**Some repositories have been hidden and are not recommended for use until they become updated.**
 
 ## ⛔ Ban Lists
 - [Community Ban Lists - Core](https://github.com/Pika-Software/gmod_community_ban_lists)
@@ -81,8 +45,8 @@ A non-profit organization engaged in the development of computer games and modif
 
 ## 🧩 Other
 - [Images](https://github.com/Pika-Software/pika-images)
+~~- [Docs](https://github.com/Pika-Software/pika-docs)~~
 - [Icons](https://github.com/Pika-Software/Icons)
-- [Docs](https://github.com/Pika-Software/pika-docs)
 - [Tools](https://github.com/Pika-Software/ptools)
 
 ## 🗑️ No Longer Supported
