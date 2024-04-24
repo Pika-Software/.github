@@ -32,10 +32,10 @@ A non-profit organization engaged in the development of computer games and modif
 - [realtime-player-updater](https://github.com/Pika-Software/realtime-player-updater) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2807143051))
 - [automatic-workshop-dl](https://github.com/Pika-Software/automatic-workshop-dl)
 - [Endless Pizza Box (SCP-458)](https://github.com/Pika-Software/gmod_endless_pizza) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2638737055))
-**Some repositories have been hidden and are not recommended for use until they become updated.**
+- **Some repositories have been hidden and are not recommended for use until they become updated.**
 
 ## 📦 Packages/Libraries/Extensions
-**Some repositories have been hidden and are not recommended for use until they become updated.**
+- **Some repositories have been hidden and are not recommended for use until they become updated.**
 
 ## ⛔ Ban Lists
 - [Community Ban Lists - Core](https://github.com/Pika-Software/gmod_community_ban_lists)
