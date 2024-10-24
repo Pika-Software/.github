@@ -40,7 +40,7 @@ A non-profit organization engaged in the development of computer games and modif
 
 ## ⛔ Ban Lists
 - [Community Ban Lists - Alium](https://github.com/The-Alium/community-ban-list)
-- [Community Ban Lists - PrikolMen](https://github.com/unknown-gd/blacklist)
+- [Community Ban Lists - Unknown Developer](https://github.com/unknown-gd/blacklist)
 - [Community Ban Lists - Bombass](https://github.com/Bombass-Project/bombass_cheaters_banlist)
 
 ## 🧩 Other
