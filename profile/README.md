@@ -27,10 +27,11 @@ A non-profit organization engaged in the development of computer games and modif
 - [gmsv_fastdl](https://github.com/Pika-Software/gmsv_fastdl)
 
 ## ✨ Add-ons/Improvements/Optimization
-- [glua-package-manager](https://github.com/Pika-Software/glua-package-manager) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2959469002))
+- [glua-package-manager](https://github.com/Pika-Software/glua-package-manager) (~~[Steam]~~)
+- [community-ban-lists](https://github.com/Pika-Software/community-ban-lists) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2878187032))
 - [random-patches](https://github.com/Pika-Software/gmod_random_patches) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2806290767))
 - [realtime-player-updater](https://github.com/Pika-Software/realtime-player-updater) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2807143051))
-- [automatic-workshop-dl](https://github.com/Pika-Software/automatic-workshop-dl)
+- [automatic-workshop-dl](https://github.com/Pika-Software/automatic-workshop-dl) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3156066111))
 - [Endless Pizza Box (SCP-458)](https://github.com/Pika-Software/gmod_endless_pizza) ([Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2638737055))
 - **Some repositories have been hidden and are not recommended for use until they become updated.**
 
@@ -38,10 +39,9 @@ A non-profit organization engaged in the development of computer games and modif
 - **Some repositories have been hidden and are not recommended for use until they become updated.**
 
 ## ⛔ Ban Lists
-- [Community Ban Lists - Core](https://github.com/Pika-Software/gmod_community_ban_lists)
-- [Community Ban Lists - Alium](https://github.com/Pika-Software/gmod_alium_bans)
-- [Community Ban Lists - PrikolMen](https://github.com/PrikolMen/gmod_blacklist)
-- [bombass_cheaters_banlist](https://github.com/Bombass-Project/bombass_cheaters_banlist)
+- [Community Ban Lists - Alium](https://github.com/The-Alium/community-ban-list)
+- [Community Ban Lists - PrikolMen](https://github.com/unknown-gd/blacklist)
+- [Community Ban Lists - Bombass](https://github.com/Bombass-Project/bombass_cheaters_banlist)
 
 ## 🧩 Other
 - [Images](https://github.com/Pika-Software/pika-images)
