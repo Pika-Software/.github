@@ -1,5 +1,5 @@
 ![Pika-Soft](https://i.imgur.com/HOjiNui.png "Pika-Soft")
-A non-profit organization engaged in the development of computer games and modifications for them. In particular, the development and launch of Garry's Mod game servers, gamemodes and addons. We have been working since 2018, cooperating with Garry's Mod communities. We have good experience in system administration and deployment of complex [Linux](https://ru.wikipedia.org/wiki/Linux)-based solutions. Among other things, we develop web applications using various languages and frameworks.
+We are a group of enthusiasts engaged in the development of computer games and modifications to them. In particular, developing and running game servers, gamemodes and Garry's Mod addons. We have been working since 2018, collaborating with Garry's Mod communities. We have solid experience in system administration and software development.
 
 <p align="right"><a href="https://open.spotify.com/track/2B15LmC8Pp8IjVsYnt4dvE?si=0d8f632743724a9c">♫ Once Again</a></p>
 <p align="center">If you can't open some repositories in this list, you probably don't have enough access, join in our Discord server to get more information.</p>
